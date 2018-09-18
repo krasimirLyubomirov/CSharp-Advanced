@@ -1,0 +1,10 @@
+D:\Programming\Visual Studio\project\AdvancedCSharp\StacksAndQueuesExercise\PoisonousPlants\bin\Debug\netcoreapp2.0\PoisonousPlants.deps.json
+D:\Programming\Visual Studio\project\AdvancedCSharp\StacksAndQueuesExercise\PoisonousPlants\bin\Debug\netcoreapp2.0\PoisonousPlants.runtimeconfig.json
+D:\Programming\Visual Studio\project\AdvancedCSharp\StacksAndQueuesExercise\PoisonousPlants\bin\Debug\netcoreapp2.0\PoisonousPlants.runtimeconfig.dev.json
+D:\Programming\Visual Studio\project\AdvancedCSharp\StacksAndQueuesExercise\PoisonousPlants\bin\Debug\netcoreapp2.0\PoisonousPlants.dll
+D:\Programming\Visual Studio\project\AdvancedCSharp\StacksAndQueuesExercise\PoisonousPlants\bin\Debug\netcoreapp2.0\PoisonousPlants.pdb
+D:\Programming\Visual Studio\project\AdvancedCSharp\StacksAndQueuesExercise\PoisonousPlants\obj\Debug\netcoreapp2.0\PoisonousPlants.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\project\AdvancedCSharp\StacksAndQueuesExercise\PoisonousPlants\obj\Debug\netcoreapp2.0\PoisonousPlants.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\project\AdvancedCSharp\StacksAndQueuesExercise\PoisonousPlants\obj\Debug\netcoreapp2.0\PoisonousPlants.AssemblyInfo.cs
+D:\Programming\Visual Studio\project\AdvancedCSharp\StacksAndQueuesExercise\PoisonousPlants\obj\Debug\netcoreapp2.0\PoisonousPlants.dll
+D:\Programming\Visual Studio\project\AdvancedCSharp\StacksAndQueuesExercise\PoisonousPlants\obj\Debug\netcoreapp2.0\PoisonousPlants.pdb

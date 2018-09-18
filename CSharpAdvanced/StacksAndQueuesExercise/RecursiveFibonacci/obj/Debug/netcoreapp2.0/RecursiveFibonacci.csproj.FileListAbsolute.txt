@@ -1,0 +1,10 @@
+D:\Programming\Visual Studio\project\AdvancedCSharp\StacksAndQueuesExercise\RecursiveFibonacci\bin\Debug\netcoreapp2.0\RecursiveFibonacci.deps.json
+D:\Programming\Visual Studio\project\AdvancedCSharp\StacksAndQueuesExercise\RecursiveFibonacci\bin\Debug\netcoreapp2.0\RecursiveFibonacci.runtimeconfig.json
+D:\Programming\Visual Studio\project\AdvancedCSharp\StacksAndQueuesExercise\RecursiveFibonacci\bin\Debug\netcoreapp2.0\RecursiveFibonacci.runtimeconfig.dev.json
+D:\Programming\Visual Studio\project\AdvancedCSharp\StacksAndQueuesExercise\RecursiveFibonacci\bin\Debug\netcoreapp2.0\RecursiveFibonacci.dll
+D:\Programming\Visual Studio\project\AdvancedCSharp\StacksAndQueuesExercise\RecursiveFibonacci\bin\Debug\netcoreapp2.0\RecursiveFibonacci.pdb
+D:\Programming\Visual Studio\project\AdvancedCSharp\StacksAndQueuesExercise\RecursiveFibonacci\obj\Debug\netcoreapp2.0\RecursiveFibonacci.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\project\AdvancedCSharp\StacksAndQueuesExercise\RecursiveFibonacci\obj\Debug\netcoreapp2.0\RecursiveFibonacci.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\project\AdvancedCSharp\StacksAndQueuesExercise\RecursiveFibonacci\obj\Debug\netcoreapp2.0\RecursiveFibonacci.AssemblyInfo.cs
+D:\Programming\Visual Studio\project\AdvancedCSharp\StacksAndQueuesExercise\RecursiveFibonacci\obj\Debug\netcoreapp2.0\RecursiveFibonacci.dll
+D:\Programming\Visual Studio\project\AdvancedCSharp\StacksAndQueuesExercise\RecursiveFibonacci\obj\Debug\netcoreapp2.0\RecursiveFibonacci.pdb
