@@ -9,6 +9,7 @@ namespace TrafficJam
         {
             int carsPerGreenLight = int.Parse(Console.ReadLine());
             string input = Console.ReadLine();
+
             Queue<string> cars = new Queue<string>();
             int totalCars = 0;
 
