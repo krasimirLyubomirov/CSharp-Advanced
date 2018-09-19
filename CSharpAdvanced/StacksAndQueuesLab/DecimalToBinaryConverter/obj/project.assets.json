@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Visual Studio\\project\\AdvancedCSharp\\StacksAndQueuesLab\\DecimalToBinaryConverter\\DecimalToBinaryConverter.csproj",
+      "projectUniqueName": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpAdvanced\\StacksAndQueuesLab\\DecimalToBinaryConverter\\DecimalToBinaryConverter.csproj",
       "projectName": "DecimalToBinaryConverter",
-      "projectPath": "D:\\Programming\\Visual Studio\\project\\AdvancedCSharp\\StacksAndQueuesLab\\DecimalToBinaryConverter\\DecimalToBinaryConverter.csproj",
+      "projectPath": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpAdvanced\\StacksAndQueuesLab\\DecimalToBinaryConverter\\DecimalToBinaryConverter.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Visual Studio\\project\\AdvancedCSharp\\StacksAndQueuesLab\\DecimalToBinaryConverter\\obj\\",
+      "outputPath": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpAdvanced\\StacksAndQueuesLab\\DecimalToBinaryConverter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

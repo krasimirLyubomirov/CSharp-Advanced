@@ -1,0 +1,11 @@
+D:\Programming\Visual Studio\CSharpAdvanced\MultidimensionalArraysLab\GroupNumbers\bin\Debug\netcoreapp2.0\GroupNumbers.deps.json
+D:\Programming\Visual Studio\CSharpAdvanced\MultidimensionalArraysLab\GroupNumbers\bin\Debug\netcoreapp2.0\GroupNumbers.runtimeconfig.json
+D:\Programming\Visual Studio\CSharpAdvanced\MultidimensionalArraysLab\GroupNumbers\bin\Debug\netcoreapp2.0\GroupNumbers.runtimeconfig.dev.json
+D:\Programming\Visual Studio\CSharpAdvanced\MultidimensionalArraysLab\GroupNumbers\bin\Debug\netcoreapp2.0\GroupNumbers.dll
+D:\Programming\Visual Studio\CSharpAdvanced\MultidimensionalArraysLab\GroupNumbers\bin\Debug\netcoreapp2.0\GroupNumbers.pdb
+D:\Programming\Visual Studio\CSharpAdvanced\MultidimensionalArraysLab\GroupNumbers\obj\Debug\netcoreapp2.0\GroupNumbers.csprojAssemblyReference.cache
+D:\Programming\Visual Studio\CSharpAdvanced\MultidimensionalArraysLab\GroupNumbers\obj\Debug\netcoreapp2.0\GroupNumbers.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\CSharpAdvanced\MultidimensionalArraysLab\GroupNumbers\obj\Debug\netcoreapp2.0\GroupNumbers.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\CSharpAdvanced\MultidimensionalArraysLab\GroupNumbers\obj\Debug\netcoreapp2.0\GroupNumbers.AssemblyInfo.cs
+D:\Programming\Visual Studio\CSharpAdvanced\MultidimensionalArraysLab\GroupNumbers\obj\Debug\netcoreapp2.0\GroupNumbers.dll
+D:\Programming\Visual Studio\CSharpAdvanced\MultidimensionalArraysLab\GroupNumbers\obj\Debug\netcoreapp2.0\GroupNumbers.pdb

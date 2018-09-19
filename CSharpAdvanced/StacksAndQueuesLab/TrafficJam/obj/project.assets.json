@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Visual Studio\\project\\AdvancedCSharp\\StacksAndQueuesLab\\TrafficJam\\TrafficJam.csproj",
+      "projectUniqueName": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpAdvanced\\StacksAndQueuesLab\\TrafficJam\\TrafficJam.csproj",
       "projectName": "TrafficJam",
-      "projectPath": "D:\\Programming\\Visual Studio\\project\\AdvancedCSharp\\StacksAndQueuesLab\\TrafficJam\\TrafficJam.csproj",
+      "projectPath": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpAdvanced\\StacksAndQueuesLab\\TrafficJam\\TrafficJam.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Visual Studio\\project\\AdvancedCSharp\\StacksAndQueuesLab\\TrafficJam\\obj\\",
+      "outputPath": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpAdvanced\\StacksAndQueuesLab\\TrafficJam\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

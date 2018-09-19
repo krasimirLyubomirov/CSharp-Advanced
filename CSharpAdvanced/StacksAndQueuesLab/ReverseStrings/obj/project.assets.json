@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Visual Studio\\project\\AdvancedCSharp\\StacksAndQueuesLab\\ReverseStrings\\ReverseStrings.csproj",
+      "projectUniqueName": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpAdvanced\\StacksAndQueuesLab\\ReverseStrings\\ReverseStrings.csproj",
       "projectName": "ReverseStrings",
-      "projectPath": "D:\\Programming\\Visual Studio\\project\\AdvancedCSharp\\StacksAndQueuesLab\\ReverseStrings\\ReverseStrings.csproj",
+      "projectPath": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpAdvanced\\StacksAndQueuesLab\\ReverseStrings\\ReverseStrings.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Visual Studio\\project\\AdvancedCSharp\\StacksAndQueuesLab\\ReverseStrings\\obj\\",
+      "outputPath": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpAdvanced\\StacksAndQueuesLab\\ReverseStrings\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

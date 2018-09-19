@@ -1,0 +1,10 @@
+D:\Programming\Visual Studio\CSharpAdvanced\MultidimensionalArraysLab\JaggedArrayModification\bin\Debug\netcoreapp2.1\JaggedArrayModification.deps.json
+D:\Programming\Visual Studio\CSharpAdvanced\MultidimensionalArraysLab\JaggedArrayModification\bin\Debug\netcoreapp2.1\JaggedArrayModification.runtimeconfig.json
+D:\Programming\Visual Studio\CSharpAdvanced\MultidimensionalArraysLab\JaggedArrayModification\bin\Debug\netcoreapp2.1\JaggedArrayModification.runtimeconfig.dev.json
+D:\Programming\Visual Studio\CSharpAdvanced\MultidimensionalArraysLab\JaggedArrayModification\bin\Debug\netcoreapp2.1\JaggedArrayModification.dll
+D:\Programming\Visual Studio\CSharpAdvanced\MultidimensionalArraysLab\JaggedArrayModification\bin\Debug\netcoreapp2.1\JaggedArrayModification.pdb
+D:\Programming\Visual Studio\CSharpAdvanced\MultidimensionalArraysLab\JaggedArrayModification\obj\Debug\netcoreapp2.1\JaggedArrayModification.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\CSharpAdvanced\MultidimensionalArraysLab\JaggedArrayModification\obj\Debug\netcoreapp2.1\JaggedArrayModification.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\CSharpAdvanced\MultidimensionalArraysLab\JaggedArrayModification\obj\Debug\netcoreapp2.1\JaggedArrayModification.AssemblyInfo.cs
+D:\Programming\Visual Studio\CSharpAdvanced\MultidimensionalArraysLab\JaggedArrayModification\obj\Debug\netcoreapp2.1\JaggedArrayModification.dll
+D:\Programming\Visual Studio\CSharpAdvanced\MultidimensionalArraysLab\JaggedArrayModification\obj\Debug\netcoreapp2.1\JaggedArrayModification.pdb
