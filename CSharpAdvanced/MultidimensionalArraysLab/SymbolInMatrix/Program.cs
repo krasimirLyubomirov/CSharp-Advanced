@@ -33,15 +33,18 @@ namespace SymbolInMatrix
                         row = r;
                         column = c;
                         hasSymbol = true;
+
+                        if (hasSymbol)
+                        {
+                            Console.WriteLine($"({row}, {column})");
+                            return;
+                        }
                     }
                 }
             }
 
-            if (hasSymbol)
-            {
-                Console.WriteLine($"({row}, {column})");
-            }
-            else
+
+            if (!hasSymbol)
             {
                 Console.WriteLine($"{symbol} does not occur in the matrix");
             }

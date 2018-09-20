@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Visual Studio\\CSharpAdvanced\\MultidimensionalArraysLab\\PascalTriangle\\PascalTriangle.csproj",
+      "projectUniqueName": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpAdvanced\\MultidimensionalArraysLab\\PascalTriangle\\PascalTriangle.csproj",
       "projectName": "PascalTriangle",
-      "projectPath": "D:\\Programming\\Visual Studio\\CSharpAdvanced\\MultidimensionalArraysLab\\PascalTriangle\\PascalTriangle.csproj",
+      "projectPath": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpAdvanced\\MultidimensionalArraysLab\\PascalTriangle\\PascalTriangle.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Visual Studio\\CSharpAdvanced\\MultidimensionalArraysLab\\PascalTriangle\\obj\\",
+      "outputPath": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpAdvanced\\MultidimensionalArraysLab\\PascalTriangle\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

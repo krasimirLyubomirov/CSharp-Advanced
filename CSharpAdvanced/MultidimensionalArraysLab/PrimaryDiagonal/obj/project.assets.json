@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Visual Studio\\CSharpAdvanced\\MultidimensionalArraysLab\\PrimaryDiagonal\\PrimaryDiagonal.csproj",
+      "projectUniqueName": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpAdvanced\\MultidimensionalArraysLab\\PrimaryDiagonal\\PrimaryDiagonal.csproj",
       "projectName": "PrimaryDiagonal",
-      "projectPath": "D:\\Programming\\Visual Studio\\CSharpAdvanced\\MultidimensionalArraysLab\\PrimaryDiagonal\\PrimaryDiagonal.csproj",
+      "projectPath": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpAdvanced\\MultidimensionalArraysLab\\PrimaryDiagonal\\PrimaryDiagonal.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Visual Studio\\CSharpAdvanced\\MultidimensionalArraysLab\\PrimaryDiagonal\\obj\\",
+      "outputPath": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpAdvanced\\MultidimensionalArraysLab\\PrimaryDiagonal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Visual Studio\\CSharpAdvanced\\MultidimensionalArraysLab\\SumMatrixElements\\SumMatrixElements.csproj",
+      "projectUniqueName": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpAdvanced\\MultidimensionalArraysLab\\SumMatrixElements\\SumMatrixElements.csproj",
       "projectName": "SumMatrixElements",
-      "projectPath": "D:\\Programming\\Visual Studio\\CSharpAdvanced\\MultidimensionalArraysLab\\SumMatrixElements\\SumMatrixElements.csproj",
+      "projectPath": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpAdvanced\\MultidimensionalArraysLab\\SumMatrixElements\\SumMatrixElements.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Visual Studio\\CSharpAdvanced\\MultidimensionalArraysLab\\SumMatrixElements\\obj\\",
+      "outputPath": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpAdvanced\\MultidimensionalArraysLab\\SumMatrixElements\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

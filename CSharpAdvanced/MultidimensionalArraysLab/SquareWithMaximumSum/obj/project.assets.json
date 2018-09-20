@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Visual Studio\\CSharpAdvanced\\MultidimensionalArraysLab\\SquareWithMaximumSum\\SquareWithMaximumSum.csproj",
+      "projectUniqueName": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpAdvanced\\MultidimensionalArraysLab\\SquareWithMaximumSum\\SquareWithMaximumSum.csproj",
       "projectName": "SquareWithMaximumSum",
-      "projectPath": "D:\\Programming\\Visual Studio\\CSharpAdvanced\\MultidimensionalArraysLab\\SquareWithMaximumSum\\SquareWithMaximumSum.csproj",
+      "projectPath": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpAdvanced\\MultidimensionalArraysLab\\SquareWithMaximumSum\\SquareWithMaximumSum.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Visual Studio\\CSharpAdvanced\\MultidimensionalArraysLab\\SquareWithMaximumSum\\obj\\",
+      "outputPath": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpAdvanced\\MultidimensionalArraysLab\\SquareWithMaximumSum\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

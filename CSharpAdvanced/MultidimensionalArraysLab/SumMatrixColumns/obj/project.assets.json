@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Visual Studio\\CSharpAdvanced\\MultidimensionalArraysLab\\SumMatrixColumns\\SumMatrixColumns.csproj",
+      "projectUniqueName": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpAdvanced\\MultidimensionalArraysLab\\SumMatrixColumns\\SumMatrixColumns.csproj",
       "projectName": "SumMatrixColumns",
-      "projectPath": "D:\\Programming\\Visual Studio\\CSharpAdvanced\\MultidimensionalArraysLab\\SumMatrixColumns\\SumMatrixColumns.csproj",
+      "projectPath": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpAdvanced\\MultidimensionalArraysLab\\SumMatrixColumns\\SumMatrixColumns.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Visual Studio\\CSharpAdvanced\\MultidimensionalArraysLab\\SumMatrixColumns\\obj\\",
+      "outputPath": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpAdvanced\\MultidimensionalArraysLab\\SumMatrixColumns\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -8,3 +8,14 @@ D:\Programming\Visual Studio\CSharpAdvanced\MultidimensionalArraysLab\SymbolInMa
 D:\Programming\Visual Studio\CSharpAdvanced\MultidimensionalArraysLab\SymbolInMatrix\obj\Debug\netcoreapp2.1\SymbolInMatrix.AssemblyInfo.cs
 D:\Programming\Visual Studio\CSharpAdvanced\MultidimensionalArraysLab\SymbolInMatrix\obj\Debug\netcoreapp2.1\SymbolInMatrix.dll
 D:\Programming\Visual Studio\CSharpAdvanced\MultidimensionalArraysLab\SymbolInMatrix\obj\Debug\netcoreapp2.1\SymbolInMatrix.pdb
+D:\Programming\Visual Studio\CSharpFundamentals\CSharpAdvanced\MultidimensionalArraysLab\SymbolInMatrix\bin\Debug\netcoreapp2.1\SymbolInMatrix.deps.json
+D:\Programming\Visual Studio\CSharpFundamentals\CSharpAdvanced\MultidimensionalArraysLab\SymbolInMatrix\bin\Debug\netcoreapp2.1\SymbolInMatrix.runtimeconfig.json
+D:\Programming\Visual Studio\CSharpFundamentals\CSharpAdvanced\MultidimensionalArraysLab\SymbolInMatrix\bin\Debug\netcoreapp2.1\SymbolInMatrix.runtimeconfig.dev.json
+D:\Programming\Visual Studio\CSharpFundamentals\CSharpAdvanced\MultidimensionalArraysLab\SymbolInMatrix\bin\Debug\netcoreapp2.1\SymbolInMatrix.dll
+D:\Programming\Visual Studio\CSharpFundamentals\CSharpAdvanced\MultidimensionalArraysLab\SymbolInMatrix\bin\Debug\netcoreapp2.1\SymbolInMatrix.pdb
+D:\Programming\Visual Studio\CSharpFundamentals\CSharpAdvanced\MultidimensionalArraysLab\SymbolInMatrix\obj\Debug\netcoreapp2.1\SymbolInMatrix.csprojAssemblyReference.cache
+D:\Programming\Visual Studio\CSharpFundamentals\CSharpAdvanced\MultidimensionalArraysLab\SymbolInMatrix\obj\Debug\netcoreapp2.1\SymbolInMatrix.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\CSharpFundamentals\CSharpAdvanced\MultidimensionalArraysLab\SymbolInMatrix\obj\Debug\netcoreapp2.1\SymbolInMatrix.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\CSharpFundamentals\CSharpAdvanced\MultidimensionalArraysLab\SymbolInMatrix\obj\Debug\netcoreapp2.1\SymbolInMatrix.AssemblyInfo.cs
+D:\Programming\Visual Studio\CSharpFundamentals\CSharpAdvanced\MultidimensionalArraysLab\SymbolInMatrix\obj\Debug\netcoreapp2.1\SymbolInMatrix.dll
+D:\Programming\Visual Studio\CSharpFundamentals\CSharpAdvanced\MultidimensionalArraysLab\SymbolInMatrix\obj\Debug\netcoreapp2.1\SymbolInMatrix.pdb
