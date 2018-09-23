@@ -1,0 +1,10 @@
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedLab\ParkingLot\bin\Debug\netcoreapp2.1\ParkingLot.deps.json
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedLab\ParkingLot\bin\Debug\netcoreapp2.1\ParkingLot.runtimeconfig.json
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedLab\ParkingLot\bin\Debug\netcoreapp2.1\ParkingLot.runtimeconfig.dev.json
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedLab\ParkingLot\bin\Debug\netcoreapp2.1\ParkingLot.dll
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedLab\ParkingLot\bin\Debug\netcoreapp2.1\ParkingLot.pdb
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedLab\ParkingLot\obj\Debug\netcoreapp2.1\ParkingLot.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedLab\ParkingLot\obj\Debug\netcoreapp2.1\ParkingLot.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedLab\ParkingLot\obj\Debug\netcoreapp2.1\ParkingLot.AssemblyInfo.cs
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedLab\ParkingLot\obj\Debug\netcoreapp2.1\ParkingLot.dll
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedLab\ParkingLot\obj\Debug\netcoreapp2.1\ParkingLot.pdb

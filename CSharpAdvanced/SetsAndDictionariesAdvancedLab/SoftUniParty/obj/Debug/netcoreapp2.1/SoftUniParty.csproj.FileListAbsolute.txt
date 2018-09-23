@@ -1,0 +1,10 @@
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedLab\SoftUniParty\bin\Debug\netcoreapp2.1\SoftUniParty.deps.json
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedLab\SoftUniParty\bin\Debug\netcoreapp2.1\SoftUniParty.runtimeconfig.json
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedLab\SoftUniParty\bin\Debug\netcoreapp2.1\SoftUniParty.runtimeconfig.dev.json
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedLab\SoftUniParty\bin\Debug\netcoreapp2.1\SoftUniParty.dll
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedLab\SoftUniParty\bin\Debug\netcoreapp2.1\SoftUniParty.pdb
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedLab\SoftUniParty\obj\Debug\netcoreapp2.1\SoftUniParty.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedLab\SoftUniParty\obj\Debug\netcoreapp2.1\SoftUniParty.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedLab\SoftUniParty\obj\Debug\netcoreapp2.1\SoftUniParty.AssemblyInfo.cs
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedLab\SoftUniParty\obj\Debug\netcoreapp2.1\SoftUniParty.dll
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedLab\SoftUniParty\obj\Debug\netcoreapp2.1\SoftUniParty.pdb

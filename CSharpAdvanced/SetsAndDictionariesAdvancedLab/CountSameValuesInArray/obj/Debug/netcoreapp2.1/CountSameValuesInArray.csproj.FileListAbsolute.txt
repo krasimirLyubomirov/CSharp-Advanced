@@ -1,0 +1,11 @@
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedLab\CountSameValuesInArray\bin\Debug\netcoreapp2.1\CountSameValuesInArray.deps.json
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedLab\CountSameValuesInArray\bin\Debug\netcoreapp2.1\CountSameValuesInArray.runtimeconfig.json
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedLab\CountSameValuesInArray\bin\Debug\netcoreapp2.1\CountSameValuesInArray.runtimeconfig.dev.json
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedLab\CountSameValuesInArray\bin\Debug\netcoreapp2.1\CountSameValuesInArray.dll
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedLab\CountSameValuesInArray\bin\Debug\netcoreapp2.1\CountSameValuesInArray.pdb
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedLab\CountSameValuesInArray\obj\Debug\netcoreapp2.1\CountSameValuesInArray.csprojAssemblyReference.cache
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedLab\CountSameValuesInArray\obj\Debug\netcoreapp2.1\CountSameValuesInArray.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedLab\CountSameValuesInArray\obj\Debug\netcoreapp2.1\CountSameValuesInArray.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedLab\CountSameValuesInArray\obj\Debug\netcoreapp2.1\CountSameValuesInArray.AssemblyInfo.cs
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedLab\CountSameValuesInArray\obj\Debug\netcoreapp2.1\CountSameValuesInArray.dll
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedLab\CountSameValuesInArray\obj\Debug\netcoreapp2.1\CountSameValuesInArray.pdb
