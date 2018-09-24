@@ -1,0 +1,10 @@
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedExercise\SetsOfElements\bin\Debug\netcoreapp2.1\SetsOfElements.deps.json
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedExercise\SetsOfElements\bin\Debug\netcoreapp2.1\SetsOfElements.runtimeconfig.json
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedExercise\SetsOfElements\bin\Debug\netcoreapp2.1\SetsOfElements.runtimeconfig.dev.json
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedExercise\SetsOfElements\bin\Debug\netcoreapp2.1\SetsOfElements.dll
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedExercise\SetsOfElements\bin\Debug\netcoreapp2.1\SetsOfElements.pdb
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedExercise\SetsOfElements\obj\Debug\netcoreapp2.1\SetsOfElements.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedExercise\SetsOfElements\obj\Debug\netcoreapp2.1\SetsOfElements.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedExercise\SetsOfElements\obj\Debug\netcoreapp2.1\SetsOfElements.AssemblyInfo.cs
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedExercise\SetsOfElements\obj\Debug\netcoreapp2.1\SetsOfElements.dll
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedExercise\SetsOfElements\obj\Debug\netcoreapp2.1\SetsOfElements.pdb

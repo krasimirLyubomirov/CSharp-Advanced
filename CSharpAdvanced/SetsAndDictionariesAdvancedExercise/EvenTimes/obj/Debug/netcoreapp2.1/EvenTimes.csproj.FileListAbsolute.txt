@@ -1,0 +1,11 @@
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedExercise\EvenTimes\bin\Debug\netcoreapp2.1\EvenTimes.deps.json
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedExercise\EvenTimes\bin\Debug\netcoreapp2.1\EvenTimes.runtimeconfig.json
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedExercise\EvenTimes\bin\Debug\netcoreapp2.1\EvenTimes.runtimeconfig.dev.json
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedExercise\EvenTimes\bin\Debug\netcoreapp2.1\EvenTimes.dll
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedExercise\EvenTimes\bin\Debug\netcoreapp2.1\EvenTimes.pdb
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedExercise\EvenTimes\obj\Debug\netcoreapp2.1\EvenTimes.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedExercise\EvenTimes\obj\Debug\netcoreapp2.1\EvenTimes.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedExercise\EvenTimes\obj\Debug\netcoreapp2.1\EvenTimes.AssemblyInfo.cs
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedExercise\EvenTimes\obj\Debug\netcoreapp2.1\EvenTimes.dll
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedExercise\EvenTimes\obj\Debug\netcoreapp2.1\EvenTimes.pdb
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedExercise\EvenTimes\obj\Debug\netcoreapp2.1\EvenTimes.csprojAssemblyReference.cache

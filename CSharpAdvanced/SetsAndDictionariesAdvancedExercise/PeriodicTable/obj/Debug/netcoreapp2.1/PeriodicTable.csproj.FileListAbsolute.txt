@@ -1,0 +1,11 @@
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedExercise\PeriodicTable\bin\Debug\netcoreapp2.1\PeriodicTable.deps.json
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedExercise\PeriodicTable\bin\Debug\netcoreapp2.1\PeriodicTable.runtimeconfig.json
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedExercise\PeriodicTable\bin\Debug\netcoreapp2.1\PeriodicTable.runtimeconfig.dev.json
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedExercise\PeriodicTable\bin\Debug\netcoreapp2.1\PeriodicTable.dll
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedExercise\PeriodicTable\bin\Debug\netcoreapp2.1\PeriodicTable.pdb
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedExercise\PeriodicTable\obj\Debug\netcoreapp2.1\PeriodicTable.csprojAssemblyReference.cache
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedExercise\PeriodicTable\obj\Debug\netcoreapp2.1\PeriodicTable.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedExercise\PeriodicTable\obj\Debug\netcoreapp2.1\PeriodicTable.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedExercise\PeriodicTable\obj\Debug\netcoreapp2.1\PeriodicTable.AssemblyInfo.cs
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedExercise\PeriodicTable\obj\Debug\netcoreapp2.1\PeriodicTable.dll
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedExercise\PeriodicTable\obj\Debug\netcoreapp2.1\PeriodicTable.pdb

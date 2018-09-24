@@ -1,0 +1,11 @@
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedExercise\Ranking\bin\Debug\netcoreapp2.1\Ranking.deps.json
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedExercise\Ranking\bin\Debug\netcoreapp2.1\Ranking.runtimeconfig.json
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedExercise\Ranking\bin\Debug\netcoreapp2.1\Ranking.runtimeconfig.dev.json
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedExercise\Ranking\bin\Debug\netcoreapp2.1\Ranking.dll
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedExercise\Ranking\bin\Debug\netcoreapp2.1\Ranking.pdb
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedExercise\Ranking\obj\Debug\netcoreapp2.1\Ranking.csprojAssemblyReference.cache
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedExercise\Ranking\obj\Debug\netcoreapp2.1\Ranking.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedExercise\Ranking\obj\Debug\netcoreapp2.1\Ranking.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedExercise\Ranking\obj\Debug\netcoreapp2.1\Ranking.AssemblyInfo.cs
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedExercise\Ranking\obj\Debug\netcoreapp2.1\Ranking.dll
+D:\Programming\Visual Studio\CSharpAdvanced\SetsAndDictionariesAdvancedExercise\Ranking\obj\Debug\netcoreapp2.1\Ranking.pdb
