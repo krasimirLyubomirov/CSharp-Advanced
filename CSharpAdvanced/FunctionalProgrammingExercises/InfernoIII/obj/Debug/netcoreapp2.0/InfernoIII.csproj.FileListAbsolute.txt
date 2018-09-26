@@ -1,0 +1,11 @@
+D:\Programming\Visual Studio\project\AdvancedCSharp\FunctionalProgrammingExercises\InfernoIII\bin\Debug\netcoreapp2.0\InfernoIII.deps.json
+D:\Programming\Visual Studio\project\AdvancedCSharp\FunctionalProgrammingExercises\InfernoIII\bin\Debug\netcoreapp2.0\InfernoIII.runtimeconfig.json
+D:\Programming\Visual Studio\project\AdvancedCSharp\FunctionalProgrammingExercises\InfernoIII\bin\Debug\netcoreapp2.0\InfernoIII.runtimeconfig.dev.json
+D:\Programming\Visual Studio\project\AdvancedCSharp\FunctionalProgrammingExercises\InfernoIII\bin\Debug\netcoreapp2.0\InfernoIII.dll
+D:\Programming\Visual Studio\project\AdvancedCSharp\FunctionalProgrammingExercises\InfernoIII\bin\Debug\netcoreapp2.0\InfernoIII.pdb
+D:\Programming\Visual Studio\project\AdvancedCSharp\FunctionalProgrammingExercises\InfernoIII\obj\Debug\netcoreapp2.0\InfernoIII.csprojAssemblyReference.cache
+D:\Programming\Visual Studio\project\AdvancedCSharp\FunctionalProgrammingExercises\InfernoIII\obj\Debug\netcoreapp2.0\InfernoIII.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\project\AdvancedCSharp\FunctionalProgrammingExercises\InfernoIII\obj\Debug\netcoreapp2.0\InfernoIII.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\project\AdvancedCSharp\FunctionalProgrammingExercises\InfernoIII\obj\Debug\netcoreapp2.0\InfernoIII.AssemblyInfo.cs
+D:\Programming\Visual Studio\project\AdvancedCSharp\FunctionalProgrammingExercises\InfernoIII\obj\Debug\netcoreapp2.0\InfernoIII.dll
+D:\Programming\Visual Studio\project\AdvancedCSharp\FunctionalProgrammingExercises\InfernoIII\obj\Debug\netcoreapp2.0\InfernoIII.pdb

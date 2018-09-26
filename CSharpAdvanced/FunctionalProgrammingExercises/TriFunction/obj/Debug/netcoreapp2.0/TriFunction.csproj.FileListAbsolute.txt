@@ -1,0 +1,10 @@
+D:\Programming\Visual Studio\project\AdvancedCSharp\FunctionalProgrammingExercises\TriFunction\bin\Debug\netcoreapp2.0\TriFunction.deps.json
+D:\Programming\Visual Studio\project\AdvancedCSharp\FunctionalProgrammingExercises\TriFunction\bin\Debug\netcoreapp2.0\TriFunction.runtimeconfig.json
+D:\Programming\Visual Studio\project\AdvancedCSharp\FunctionalProgrammingExercises\TriFunction\bin\Debug\netcoreapp2.0\TriFunction.runtimeconfig.dev.json
+D:\Programming\Visual Studio\project\AdvancedCSharp\FunctionalProgrammingExercises\TriFunction\bin\Debug\netcoreapp2.0\TriFunction.dll
+D:\Programming\Visual Studio\project\AdvancedCSharp\FunctionalProgrammingExercises\TriFunction\bin\Debug\netcoreapp2.0\TriFunction.pdb
+D:\Programming\Visual Studio\project\AdvancedCSharp\FunctionalProgrammingExercises\TriFunction\obj\Debug\netcoreapp2.0\TriFunction.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\project\AdvancedCSharp\FunctionalProgrammingExercises\TriFunction\obj\Debug\netcoreapp2.0\TriFunction.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\project\AdvancedCSharp\FunctionalProgrammingExercises\TriFunction\obj\Debug\netcoreapp2.0\TriFunction.AssemblyInfo.cs
+D:\Programming\Visual Studio\project\AdvancedCSharp\FunctionalProgrammingExercises\TriFunction\obj\Debug\netcoreapp2.0\TriFunction.dll
+D:\Programming\Visual Studio\project\AdvancedCSharp\FunctionalProgrammingExercises\TriFunction\obj\Debug\netcoreapp2.0\TriFunction.pdb
