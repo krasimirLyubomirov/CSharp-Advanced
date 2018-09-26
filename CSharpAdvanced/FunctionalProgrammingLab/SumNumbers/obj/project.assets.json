@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Visual Studio\\project\\AdvancedCSharp\\FunctionalProgrammingLab\\SumNumbers\\SumNumbers.csproj",
+      "projectUniqueName": "D:\\Programming\\Visual Studio\\CSharpAdvanced\\FunctionalProgrammingLab\\SumNumbers\\SumNumbers.csproj",
       "projectName": "SumNumbers",
-      "projectPath": "D:\\Programming\\Visual Studio\\project\\AdvancedCSharp\\FunctionalProgrammingLab\\SumNumbers\\SumNumbers.csproj",
+      "projectPath": "D:\\Programming\\Visual Studio\\CSharpAdvanced\\FunctionalProgrammingLab\\SumNumbers\\SumNumbers.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Visual Studio\\project\\AdvancedCSharp\\FunctionalProgrammingLab\\SumNumbers\\obj\\",
+      "outputPath": "D:\\Programming\\Visual Studio\\CSharpAdvanced\\FunctionalProgrammingLab\\SumNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -13,8 +13,7 @@ namespace FilterByAge
 
             for (int i = 0; i < peopleCount; i++)
             {
-                string[] nameAndAge = Console.ReadLine().Split(new char[] { ' ', ',' }, 
-                    StringSplitOptions.RemoveEmptyEntries);
+                string[] nameAndAge = Console.ReadLine().Split(new char[] { ' ', ',' }, StringSplitOptions.RemoveEmptyEntries);
                 people.Add(nameAndAge[0], int.Parse(nameAndAge[1]));
             }
 

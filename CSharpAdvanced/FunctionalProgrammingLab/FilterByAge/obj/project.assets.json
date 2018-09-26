@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Visual Studio\\project\\AdvancedCSharp\\FunctionalProgrammingLab\\FilterByAge\\FilterByAge.csproj",
+      "projectUniqueName": "D:\\Programming\\Visual Studio\\CSharpAdvanced\\FunctionalProgrammingLab\\FilterByAge\\FilterByAge.csproj",
       "projectName": "FilterByAge",
-      "projectPath": "D:\\Programming\\Visual Studio\\project\\AdvancedCSharp\\FunctionalProgrammingLab\\FilterByAge\\FilterByAge.csproj",
+      "projectPath": "D:\\Programming\\Visual Studio\\CSharpAdvanced\\FunctionalProgrammingLab\\FilterByAge\\FilterByAge.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Visual Studio\\project\\AdvancedCSharp\\FunctionalProgrammingLab\\FilterByAge\\obj\\",
+      "outputPath": "D:\\Programming\\Visual Studio\\CSharpAdvanced\\FunctionalProgrammingLab\\FilterByAge\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

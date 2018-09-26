@@ -1,0 +1,11 @@
+D:\Programming\Visual Studio\CSharpFundamentals\CSharpAdvanced\MultidimensionalArraysExercise\RadioactiveBunnies\bin\Debug\netcoreapp2.1\RadioactiveBunnies.deps.json
+D:\Programming\Visual Studio\CSharpFundamentals\CSharpAdvanced\MultidimensionalArraysExercise\RadioactiveBunnies\bin\Debug\netcoreapp2.1\RadioactiveBunnies.runtimeconfig.json
+D:\Programming\Visual Studio\CSharpFundamentals\CSharpAdvanced\MultidimensionalArraysExercise\RadioactiveBunnies\bin\Debug\netcoreapp2.1\RadioactiveBunnies.runtimeconfig.dev.json
+D:\Programming\Visual Studio\CSharpFundamentals\CSharpAdvanced\MultidimensionalArraysExercise\RadioactiveBunnies\bin\Debug\netcoreapp2.1\RadioactiveBunnies.dll
+D:\Programming\Visual Studio\CSharpFundamentals\CSharpAdvanced\MultidimensionalArraysExercise\RadioactiveBunnies\bin\Debug\netcoreapp2.1\RadioactiveBunnies.pdb
+D:\Programming\Visual Studio\CSharpFundamentals\CSharpAdvanced\MultidimensionalArraysExercise\RadioactiveBunnies\obj\Debug\netcoreapp2.1\RadioactiveBunnies.csprojAssemblyReference.cache
+D:\Programming\Visual Studio\CSharpFundamentals\CSharpAdvanced\MultidimensionalArraysExercise\RadioactiveBunnies\obj\Debug\netcoreapp2.1\RadioactiveBunnies.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\CSharpFundamentals\CSharpAdvanced\MultidimensionalArraysExercise\RadioactiveBunnies\obj\Debug\netcoreapp2.1\RadioactiveBunnies.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\CSharpFundamentals\CSharpAdvanced\MultidimensionalArraysExercise\RadioactiveBunnies\obj\Debug\netcoreapp2.1\RadioactiveBunnies.AssemblyInfo.cs
+D:\Programming\Visual Studio\CSharpFundamentals\CSharpAdvanced\MultidimensionalArraysExercise\RadioactiveBunnies\obj\Debug\netcoreapp2.1\RadioactiveBunnies.dll
+D:\Programming\Visual Studio\CSharpFundamentals\CSharpAdvanced\MultidimensionalArraysExercise\RadioactiveBunnies\obj\Debug\netcoreapp2.1\RadioactiveBunnies.pdb

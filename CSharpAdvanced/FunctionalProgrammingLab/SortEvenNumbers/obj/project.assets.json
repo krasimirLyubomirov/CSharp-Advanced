@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Visual Studio\\project\\AdvancedCSharp\\FunctionalProgrammingLab\\SortEvenNumbers\\SortEvenNumbers.csproj",
+      "projectUniqueName": "D:\\Programming\\Visual Studio\\CSharpAdvanced\\FunctionalProgrammingLab\\SortEvenNumbers\\SortEvenNumbers.csproj",
       "projectName": "SortEvenNumbers",
-      "projectPath": "D:\\Programming\\Visual Studio\\project\\AdvancedCSharp\\FunctionalProgrammingLab\\SortEvenNumbers\\SortEvenNumbers.csproj",
+      "projectPath": "D:\\Programming\\Visual Studio\\CSharpAdvanced\\FunctionalProgrammingLab\\SortEvenNumbers\\SortEvenNumbers.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Visual Studio\\project\\AdvancedCSharp\\FunctionalProgrammingLab\\SortEvenNumbers\\obj\\",
+      "outputPath": "D:\\Programming\\Visual Studio\\CSharpAdvanced\\FunctionalProgrammingLab\\SortEvenNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

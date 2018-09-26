@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 
 namespace SortEvenNumbers
@@ -7,7 +8,7 @@ namespace SortEvenNumbers
     {
         static void Main(string[] args)
         {
-            var numbers = Console.ReadLine().Split(new char[] { ' ', ',' }, StringSplitOptions.RemoveEmptyEntries)
+            List<int> numbers = Console.ReadLine().Split(new char[] { ' ', ',' }, StringSplitOptions.RemoveEmptyEntries)
                 .Select(int.Parse).Where(n => n % 2 == 0).OrderBy(n => n).ToList();
             Console.WriteLine(String.Join(", ", numbers));
         }
