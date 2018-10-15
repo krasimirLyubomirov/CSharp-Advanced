@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Visual Studio\\CSharpAdvanced\\SetsAndDictionariesAdvancedExercise\\UniqueUsernames\\UniqueUsernames.csproj",
+      "projectUniqueName": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpAdvanced\\SetsAndDictionariesAdvancedExercise\\UniqueUsernames\\UniqueUsernames.csproj",
       "projectName": "UniqueUsernames",
-      "projectPath": "D:\\Programming\\Visual Studio\\CSharpAdvanced\\SetsAndDictionariesAdvancedExercise\\UniqueUsernames\\UniqueUsernames.csproj",
+      "projectPath": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpAdvanced\\SetsAndDictionariesAdvancedExercise\\UniqueUsernames\\UniqueUsernames.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Visual Studio\\CSharpAdvanced\\SetsAndDictionariesAdvancedExercise\\UniqueUsernames\\obj\\",
+      "outputPath": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpAdvanced\\SetsAndDictionariesAdvancedExercise\\UniqueUsernames\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

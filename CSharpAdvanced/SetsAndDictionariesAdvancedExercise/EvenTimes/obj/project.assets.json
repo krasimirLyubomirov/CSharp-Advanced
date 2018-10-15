@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Visual Studio\\CSharpAdvanced\\SetsAndDictionariesAdvancedExercise\\EvenTimes\\EvenTimes.csproj",
+      "projectUniqueName": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpAdvanced\\SetsAndDictionariesAdvancedExercise\\EvenTimes\\EvenTimes.csproj",
       "projectName": "EvenTimes",
-      "projectPath": "D:\\Programming\\Visual Studio\\CSharpAdvanced\\SetsAndDictionariesAdvancedExercise\\EvenTimes\\EvenTimes.csproj",
+      "projectPath": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpAdvanced\\SetsAndDictionariesAdvancedExercise\\EvenTimes\\EvenTimes.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Visual Studio\\CSharpAdvanced\\SetsAndDictionariesAdvancedExercise\\EvenTimes\\obj\\",
+      "outputPath": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpAdvanced\\SetsAndDictionariesAdvancedExercise\\EvenTimes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Visual Studio\\CSharpAdvanced\\SetsAndDictionariesAdvancedExercise\\SetsOfElements\\SetsOfElements.csproj",
+      "projectUniqueName": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpAdvanced\\SetsAndDictionariesAdvancedExercise\\SetsOfElements\\SetsOfElements.csproj",
       "projectName": "SetsOfElements",
-      "projectPath": "D:\\Programming\\Visual Studio\\CSharpAdvanced\\SetsAndDictionariesAdvancedExercise\\SetsOfElements\\SetsOfElements.csproj",
+      "projectPath": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpAdvanced\\SetsAndDictionariesAdvancedExercise\\SetsOfElements\\SetsOfElements.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Visual Studio\\CSharpAdvanced\\SetsAndDictionariesAdvancedExercise\\SetsOfElements\\obj\\",
+      "outputPath": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpAdvanced\\SetsAndDictionariesAdvancedExercise\\SetsOfElements\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

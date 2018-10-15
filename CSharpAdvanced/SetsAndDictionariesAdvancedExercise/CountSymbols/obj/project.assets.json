@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Visual Studio\\CSharpAdvanced\\SetsAndDictionariesAdvancedExercise\\CountSymbols\\CountSymbols.csproj",
+      "projectUniqueName": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpAdvanced\\SetsAndDictionariesAdvancedExercise\\CountSymbols\\CountSymbols.csproj",
       "projectName": "CountSymbols",
-      "projectPath": "D:\\Programming\\Visual Studio\\CSharpAdvanced\\SetsAndDictionariesAdvancedExercise\\CountSymbols\\CountSymbols.csproj",
+      "projectPath": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpAdvanced\\SetsAndDictionariesAdvancedExercise\\CountSymbols\\CountSymbols.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Visual Studio\\CSharpAdvanced\\SetsAndDictionariesAdvancedExercise\\CountSymbols\\obj\\",
+      "outputPath": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpAdvanced\\SetsAndDictionariesAdvancedExercise\\CountSymbols\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

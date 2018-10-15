@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Visual Studio\\CSharpAdvanced\\SetsAndDictionariesAdvancedExercise\\PeriodicTable\\PeriodicTable.csproj",
+      "projectUniqueName": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpAdvanced\\SetsAndDictionariesAdvancedExercise\\PeriodicTable\\PeriodicTable.csproj",
       "projectName": "PeriodicTable",
-      "projectPath": "D:\\Programming\\Visual Studio\\CSharpAdvanced\\SetsAndDictionariesAdvancedExercise\\PeriodicTable\\PeriodicTable.csproj",
+      "projectPath": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpAdvanced\\SetsAndDictionariesAdvancedExercise\\PeriodicTable\\PeriodicTable.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Visual Studio\\CSharpAdvanced\\SetsAndDictionariesAdvancedExercise\\PeriodicTable\\obj\\",
+      "outputPath": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpAdvanced\\SetsAndDictionariesAdvancedExercise\\PeriodicTable\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
