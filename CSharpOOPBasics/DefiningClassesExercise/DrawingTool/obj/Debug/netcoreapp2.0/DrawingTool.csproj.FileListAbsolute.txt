@@ -1,0 +1,11 @@
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesExercise\DrawingTool\bin\Debug\netcoreapp2.0\DrawingTool.deps.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesExercise\DrawingTool\bin\Debug\netcoreapp2.0\DrawingTool.runtimeconfig.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesExercise\DrawingTool\bin\Debug\netcoreapp2.0\DrawingTool.runtimeconfig.dev.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesExercise\DrawingTool\bin\Debug\netcoreapp2.0\DrawingTool.dll
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesExercise\DrawingTool\bin\Debug\netcoreapp2.0\DrawingTool.pdb
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesExercise\DrawingTool\obj\Debug\netcoreapp2.0\DrawingTool.csprojAssemblyReference.cache
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesExercise\DrawingTool\obj\Debug\netcoreapp2.0\DrawingTool.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesExercise\DrawingTool\obj\Debug\netcoreapp2.0\DrawingTool.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesExercise\DrawingTool\obj\Debug\netcoreapp2.0\DrawingTool.AssemblyInfo.cs
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesExercise\DrawingTool\obj\Debug\netcoreapp2.0\DrawingTool.dll
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesExercise\DrawingTool\obj\Debug\netcoreapp2.0\DrawingTool.pdb

@@ -1,0 +1,11 @@
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesExercise\CatLady\bin\Debug\netcoreapp2.0\CatLady.deps.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesExercise\CatLady\bin\Debug\netcoreapp2.0\CatLady.runtimeconfig.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesExercise\CatLady\bin\Debug\netcoreapp2.0\CatLady.runtimeconfig.dev.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesExercise\CatLady\bin\Debug\netcoreapp2.0\CatLady.dll
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesExercise\CatLady\bin\Debug\netcoreapp2.0\CatLady.pdb
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesExercise\CatLady\obj\Debug\netcoreapp2.0\CatLady.csprojAssemblyReference.cache
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesExercise\CatLady\obj\Debug\netcoreapp2.0\CatLady.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesExercise\CatLady\obj\Debug\netcoreapp2.0\CatLady.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesExercise\CatLady\obj\Debug\netcoreapp2.0\CatLady.AssemblyInfo.cs
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesExercise\CatLady\obj\Debug\netcoreapp2.0\CatLady.dll
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesExercise\CatLady\obj\Debug\netcoreapp2.0\CatLady.pdb

@@ -1,0 +1,11 @@
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesExercise\OpinionPoll\bin\Debug\netcoreapp2.0\OpinionPoll.deps.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesExercise\OpinionPoll\bin\Debug\netcoreapp2.0\OpinionPoll.runtimeconfig.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesExercise\OpinionPoll\bin\Debug\netcoreapp2.0\OpinionPoll.runtimeconfig.dev.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesExercise\OpinionPoll\bin\Debug\netcoreapp2.0\OpinionPoll.dll
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesExercise\OpinionPoll\bin\Debug\netcoreapp2.0\OpinionPoll.pdb
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesExercise\OpinionPoll\obj\Debug\netcoreapp2.0\OpinionPoll.csprojAssemblyReference.cache
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesExercise\OpinionPoll\obj\Debug\netcoreapp2.0\OpinionPoll.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesExercise\OpinionPoll\obj\Debug\netcoreapp2.0\OpinionPoll.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesExercise\OpinionPoll\obj\Debug\netcoreapp2.0\OpinionPoll.AssemblyInfo.cs
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesExercise\OpinionPoll\obj\Debug\netcoreapp2.0\OpinionPoll.dll
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesExercise\OpinionPoll\obj\Debug\netcoreapp2.0\OpinionPoll.pdb
