@@ -670,9 +670,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpOOPBasics\\DefiningClassesExercise\\DefineAClassPerson\\DefineAClassPerson.csproj",
-      "projectName": "DefineAClassPerson",
-      "projectPath": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpOOPBasics\\DefiningClassesExercise\\DefineAClassPerson\\DefineAClassPerson.csproj",
+      "projectUniqueName": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpOOPBasics\\DefiningClassesExercise\\DefineAClassPerson\\DefineClasses.csproj",
+      "projectName": "DefineClasses",
+      "projectPath": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpOOPBasics\\DefiningClassesExercise\\DefineAClassPerson\\DefineClasses.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
       "outputPath": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpOOPBasics\\DefiningClassesExercise\\DefineAClassPerson\\obj\\",
       "projectStyle": "PackageReference",

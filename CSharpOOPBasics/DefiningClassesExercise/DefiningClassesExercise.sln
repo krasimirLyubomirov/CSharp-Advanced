@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DefineAClassPerson", "DefineAClassPerson\DefineAClassPerson.csproj", "{E551B8AE-24E1-48CE-8E27-2ED5C3871063}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DefineClasses", "DefineAClassPerson\DefineClasses.csproj", "{E551B8AE-24E1-48CE-8E27-2ED5C3871063}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreatingConstructors", "CreatingConstructors\CreatingConstructors.csproj", "{04CF2EE9-D190-46D5-93DE-D5C429903136}"
 EndProject
@@ -27,11 +27,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarSalesman", "CarSalesman\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PokemonTrainer", "PokemonTrainer\PokemonTrainer.csproj", "{D4E047C2-E5FE-45FE-AEBC-58326921F7B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Google", "Google\Google.csproj", "{7CE0FD20-AC9B-41D8-8FD5-714B943FE1BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Google", "Google\Google.csproj", "{7CE0FD20-AC9B-41D8-8FD5-714B943FE1BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatLady", "CatLady\CatLady.csproj", "{551DE4CE-F65E-465E-B803-BC57F0CEA8FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CatLady", "CatLady\CatLady.csproj", "{551DE4CE-F65E-465E-B803-BC57F0CEA8FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawingTool", "DrawingTool\DrawingTool.csproj", "{4A1DDDBE-E74C-42FA-BA28-E0BABF0FDD93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DrawingTool", "DrawingTool\DrawingTool.csproj", "{4A1DDDBE-E74C-42FA-BA28-E0BABF0FDD93}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
