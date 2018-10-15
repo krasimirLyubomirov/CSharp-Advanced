@@ -1,18 +1,22 @@
-﻿public class Person
+﻿namespace DefiningClasses
 {
-    private string name;
-    private int age;
-
-    public string Name
+    public class Person
     {
-        get { return name; }
-        set { this.name = value; }
-    }
+        private string name;
+        private int age;
 
-    public int Age
-    {
-        get { return age; }
-        set { this.age = value; }
+        public string Name
+        {
+            get { return name; }
+            set { this.name = value; }
+        }
+
+        public int Age
+        {
+            get { return age; }
+            set { this.age = value; }
+        }
     }
 }
+
 

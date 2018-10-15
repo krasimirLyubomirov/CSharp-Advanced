@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Visual Studio\\CSharpOOPBasics\\DefiningClassesExercise\\RawData\\RawData.csproj",
+      "projectUniqueName": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpOOPBasics\\DefiningClassesExercise\\RawData\\RawData.csproj",
       "projectName": "RawData",
-      "projectPath": "D:\\Programming\\Visual Studio\\CSharpOOPBasics\\DefiningClassesExercise\\RawData\\RawData.csproj",
+      "projectPath": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpOOPBasics\\DefiningClassesExercise\\RawData\\RawData.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Visual Studio\\CSharpOOPBasics\\DefiningClassesExercise\\RawData\\obj\\",
+      "outputPath": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpOOPBasics\\DefiningClassesExercise\\RawData\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

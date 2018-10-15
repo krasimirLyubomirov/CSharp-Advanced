@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Visual Studio\\CSharpOOPBasics\\DefiningClassesExercise\\CatLady\\CatLady.csproj",
+      "projectUniqueName": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpOOPBasics\\DefiningClassesExercise\\CatLady\\CatLady.csproj",
       "projectName": "CatLady",
-      "projectPath": "D:\\Programming\\Visual Studio\\CSharpOOPBasics\\DefiningClassesExercise\\CatLady\\CatLady.csproj",
+      "projectPath": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpOOPBasics\\DefiningClassesExercise\\CatLady\\CatLady.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Visual Studio\\CSharpOOPBasics\\DefiningClassesExercise\\CatLady\\obj\\",
+      "outputPath": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpOOPBasics\\DefiningClassesExercise\\CatLady\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

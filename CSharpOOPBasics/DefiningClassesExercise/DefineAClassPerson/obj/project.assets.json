@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Visual Studio\\CSharpOOPBasics\\DefiningClassesExercise\\DefineAClassPerson\\DefineAClassPerson.csproj",
+      "projectUniqueName": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpOOPBasics\\DefiningClassesExercise\\DefineAClassPerson\\DefineAClassPerson.csproj",
       "projectName": "DefineAClassPerson",
-      "projectPath": "D:\\Programming\\Visual Studio\\CSharpOOPBasics\\DefiningClassesExercise\\DefineAClassPerson\\DefineAClassPerson.csproj",
+      "projectPath": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpOOPBasics\\DefiningClassesExercise\\DefineAClassPerson\\DefineAClassPerson.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Visual Studio\\CSharpOOPBasics\\DefiningClassesExercise\\DefineAClassPerson\\obj\\",
+      "outputPath": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpOOPBasics\\DefiningClassesExercise\\DefineAClassPerson\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

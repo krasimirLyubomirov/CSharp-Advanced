@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Visual Studio\\CSharpOOPBasics\\DefiningClassesExercise\\CreatingConstructors\\CreatingConstructors.csproj",
+      "projectUniqueName": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpOOPBasics\\DefiningClassesExercise\\CreatingConstructors\\CreatingConstructors.csproj",
       "projectName": "CreatingConstructors",
-      "projectPath": "D:\\Programming\\Visual Studio\\CSharpOOPBasics\\DefiningClassesExercise\\CreatingConstructors\\CreatingConstructors.csproj",
+      "projectPath": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpOOPBasics\\DefiningClassesExercise\\CreatingConstructors\\CreatingConstructors.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Visual Studio\\CSharpOOPBasics\\DefiningClassesExercise\\CreatingConstructors\\obj\\",
+      "outputPath": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpOOPBasics\\DefiningClassesExercise\\CreatingConstructors\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

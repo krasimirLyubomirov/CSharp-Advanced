@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Visual Studio\\CSharpOOPBasics\\DefiningClassesExercise\\OldestFamilyMember\\OldestFamilyMember.csproj",
+      "projectUniqueName": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpOOPBasics\\DefiningClassesExercise\\OldestFamilyMember\\OldestFamilyMember.csproj",
       "projectName": "OldestFamilyMember",
-      "projectPath": "D:\\Programming\\Visual Studio\\CSharpOOPBasics\\DefiningClassesExercise\\OldestFamilyMember\\OldestFamilyMember.csproj",
+      "projectPath": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpOOPBasics\\DefiningClassesExercise\\OldestFamilyMember\\OldestFamilyMember.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Visual Studio\\CSharpOOPBasics\\DefiningClassesExercise\\OldestFamilyMember\\obj\\",
+      "outputPath": "D:\\Programming\\Visual Studio\\CSharpFundamentals\\CSharpOOPBasics\\DefiningClassesExercise\\OldestFamilyMember\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,8 +1,13 @@
-﻿class Program
+﻿namespace DefiningClasses
 {
-    static void Main(string[] args)
+    class StartUp
     {
+        static void Main(string[] args)
+        {
 
+        }
     }
 }
+
+
 
