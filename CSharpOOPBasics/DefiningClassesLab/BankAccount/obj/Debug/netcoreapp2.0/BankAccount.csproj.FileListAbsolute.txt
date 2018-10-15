@@ -1,0 +1,11 @@
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesLab\BankAccount\obj\Debug\netcoreapp2.0\BankAccount.csprojAssemblyReference.cache
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesLab\BankAccount\obj\Debug\netcoreapp2.0\BankAccount.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesLab\BankAccount\obj\Debug\netcoreapp2.0\BankAccount.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesLab\BankAccount\obj\Debug\netcoreapp2.0\BankAccount.AssemblyInfo.cs
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesLab\BankAccount\bin\Debug\netcoreapp2.0\BankAccount.deps.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesLab\BankAccount\bin\Debug\netcoreapp2.0\BankAccount.runtimeconfig.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesLab\BankAccount\bin\Debug\netcoreapp2.0\BankAccount.runtimeconfig.dev.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesLab\BankAccount\bin\Debug\netcoreapp2.0\BankAccount.dll
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesLab\BankAccount\bin\Debug\netcoreapp2.0\BankAccount.pdb
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesLab\BankAccount\obj\Debug\netcoreapp2.0\BankAccount.dll
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesLab\BankAccount\obj\Debug\netcoreapp2.0\BankAccount.pdb

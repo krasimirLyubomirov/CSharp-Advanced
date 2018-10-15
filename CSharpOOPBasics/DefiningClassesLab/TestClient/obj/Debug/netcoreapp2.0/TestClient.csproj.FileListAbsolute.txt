@@ -1,0 +1,10 @@
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesLab\TestClient\bin\Debug\netcoreapp2.0\TestClient.deps.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesLab\TestClient\bin\Debug\netcoreapp2.0\TestClient.runtimeconfig.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesLab\TestClient\bin\Debug\netcoreapp2.0\TestClient.runtimeconfig.dev.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesLab\TestClient\bin\Debug\netcoreapp2.0\TestClient.dll
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesLab\TestClient\bin\Debug\netcoreapp2.0\TestClient.pdb
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesLab\TestClient\obj\Debug\netcoreapp2.0\TestClient.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesLab\TestClient\obj\Debug\netcoreapp2.0\TestClient.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesLab\TestClient\obj\Debug\netcoreapp2.0\TestClient.AssemblyInfo.cs
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesLab\TestClient\obj\Debug\netcoreapp2.0\TestClient.dll
+D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesLab\TestClient\obj\Debug\netcoreapp2.0\TestClient.pdb
