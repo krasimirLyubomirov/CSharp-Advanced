@@ -1,149 +1,110 @@
-﻿using System.Collections.Generic;
-using System.Text;
-
-public class Person
+﻿namespace Google
 {
-    private class Company
+    using System.Collections.Generic;
+    using System.Text;
+
+    public class Person
     {
         private string name;
-        private string department;
-        private decimal salary;
+        private Company company;
+        private List<Pokemon> pokemons;
+        private List<Parent> parents;
+        private List<Child> children;
+        private Car car;
 
-        public Company(string name, string department, decimal salary)
+        public Person(string name)
         {
-            this.name = name;
-            this.department = department;
-            this.salary = salary;
+            this.Name = name;
+            this.Pokemons = new List<Pokemon>();
+            this.Parents = new List<Parent>();
+            this.Children = new List<Child>();
+        }
+
+        public Car Car
+        {
+            get { return this.car; }
+            set { this.car = value; }
+        }
+
+        public List<Child> Children
+        {
+            get { return this.children; }
+            set { this.children = value; }
+        }
+
+        public List<Parent> Parents
+        {
+            get { return this.parents; }
+            set { this.parents = value; }
+        }
+
+        public List<Pokemon> Pokemons
+        {
+            get { return this.pokemons; }
+            set { this.pokemons = value; }
+        }
+
+        public Company Company
+        {
+            get { return this.company; }
+            set { this.company = value; }
+        }
+
+        public string Name
+        {
+            get { return this.name; }
+            set { this.name = value; }
         }
 
         public override string ToString()
         {
-            return $"{name} {department} {salary:f2}";
+            StringBuilder builder = new StringBuilder();
+
+            builder.AppendLine(this.Name).AppendLine("Company:");
+
+            if (this.Company != null)
+            {
+                builder.AppendLine(this.Company.ToString());
+            }
+
+            builder.AppendLine("Car:");
+
+            if (this.Car != null)
+            {
+                builder.AppendLine(this.Car.ToString());
+            }
+
+            builder.AppendLine("Pokemon:");
+
+            if (this.Pokemons.Count != 0)
+            {
+                foreach (Pokemon pokemon in this.Pokemons)
+                {
+                    builder.AppendLine(pokemon.ToString());
+                }
+            }
+
+            builder.AppendLine("Parents:");
+
+            if (this.Parents.Count != 0)
+            {
+                foreach (Parent parent in this.Parents)
+                {
+                    builder.AppendLine(parent.ToString());
+                }
+            }
+
+            builder.AppendLine("Children:");
+
+            if (this.Children.Count != 0)
+            {
+                foreach (Child child in this.Children)
+                {
+                    builder.AppendLine(child.ToString());
+                }
+            }
+
+            return builder.ToString().Trim();
         }
-    }
-
-    private class Pokemon
-    {
-        private string name;
-        private string type;
-
-        public Pokemon(string name, string type)
-        {
-            this.name = name;
-            this.type = type;
-        }
-
-        public override string ToString()
-        {
-            return $"{name} {type}";
-        }
-    }
-
-    private class Car
-    {
-        private string model;
-        private int speed;
-
-        public Car(string model, int speed)
-        {
-            this.model = model;
-            this.speed = speed;
-        }
-
-        public override string ToString()
-        {
-            return $"{model} {speed}";
-        }
-    }
-
-    private string name;
-    private List<Person> parents;
-    private List<Person> childrens;
-    private List<Pokemon> pokemons;
-    private Car car;
-    private Company company;
-    string birthday;
-
-    public Person(string name, string birthday = null)
-    {
-        this.name = name;
-        this.birthday = birthday;
-        this.parents = new List<Person>();
-        this.childrens = new List<Person>();
-        this.pokemons = new List<Pokemon>();
-    }
-
-    public string Name
-    {
-        get { return this.name; }
-    }
-
-    public void AddParent(Person parent)
-    {
-        this.parents.Add(parent);
-    }
-
-    public void AddChild(Person child)
-    {
-        this.childrens.Add(child);
-    }
-
-    public void AddPokemon(string pokemonName, string pokemonType)
-    {
-        this.pokemons.Add(new Pokemon(pokemonName, pokemonType));
-    }
-
-    public void AssignCompany(string companyName, string department, decimal salary)
-    {
-        this.company = new Company(companyName, department, salary);
-    }
-
-    public void AssignCar(string model, int speed)
-    {
-        this.car = new Car(model, speed);
-    }
-
-    public override string ToString()
-    {
-        StringBuilder builder = new StringBuilder();
-
-        builder.AppendLine(this.name);
-        builder.AppendLine("Company:");
-
-        if (this.company != null)
-        {
-            builder.AppendLine(company.ToString());
-        }
-
-        builder.AppendLine("Car:");
-
-        if (this.car != null)
-        {
-            builder.AppendLine(car.ToString());
-        }
-
-        builder.AppendLine("Pokemon:");
-
-        foreach (var pokemon in pokemons)
-        {
-            builder.AppendLine(pokemon.ToString());
-        }
-
-        builder.AppendLine("Parents:");
-
-        foreach (var parent in parents)
-        {
-            builder.AppendLine($"{parent.name} {parent.birthday}");
-        }
-
-        builder.AppendLine("Children:");
-
-        foreach (var child in childrens)
-        {
-            builder.Append($"{child.name} {child.birthday}");
-        }
-
-        return builder.ToString();
     }
 }
-

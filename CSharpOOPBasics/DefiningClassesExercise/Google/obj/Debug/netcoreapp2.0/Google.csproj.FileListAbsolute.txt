@@ -9,3 +9,14 @@ D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesExercise\Goo
 D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesExercise\Google\bin\Debug\netcoreapp2.0\Google.pdb
 D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesExercise\Google\obj\Debug\netcoreapp2.0\Google.dll
 D:\Programming\Visual Studio\project\CSharpOOPBasics\DefiningClassesExercise\Google\obj\Debug\netcoreapp2.0\Google.pdb
+D:\Programming\Visual Studio\CSharpFundamentals\CSharpOOPBasics\DefiningClassesExercise\Google\bin\Debug\netcoreapp2.0\Google.deps.json
+D:\Programming\Visual Studio\CSharpFundamentals\CSharpOOPBasics\DefiningClassesExercise\Google\bin\Debug\netcoreapp2.0\Google.runtimeconfig.json
+D:\Programming\Visual Studio\CSharpFundamentals\CSharpOOPBasics\DefiningClassesExercise\Google\bin\Debug\netcoreapp2.0\Google.runtimeconfig.dev.json
+D:\Programming\Visual Studio\CSharpFundamentals\CSharpOOPBasics\DefiningClassesExercise\Google\bin\Debug\netcoreapp2.0\Google.dll
+D:\Programming\Visual Studio\CSharpFundamentals\CSharpOOPBasics\DefiningClassesExercise\Google\bin\Debug\netcoreapp2.0\Google.pdb
+D:\Programming\Visual Studio\CSharpFundamentals\CSharpOOPBasics\DefiningClassesExercise\Google\obj\Debug\netcoreapp2.0\Google.csprojAssemblyReference.cache
+D:\Programming\Visual Studio\CSharpFundamentals\CSharpOOPBasics\DefiningClassesExercise\Google\obj\Debug\netcoreapp2.0\Google.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\CSharpFundamentals\CSharpOOPBasics\DefiningClassesExercise\Google\obj\Debug\netcoreapp2.0\Google.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\CSharpFundamentals\CSharpOOPBasics\DefiningClassesExercise\Google\obj\Debug\netcoreapp2.0\Google.AssemblyInfo.cs
+D:\Programming\Visual Studio\CSharpFundamentals\CSharpOOPBasics\DefiningClassesExercise\Google\obj\Debug\netcoreapp2.0\Google.dll
+D:\Programming\Visual Studio\CSharpFundamentals\CSharpOOPBasics\DefiningClassesExercise\Google\obj\Debug\netcoreapp2.0\Google.pdb

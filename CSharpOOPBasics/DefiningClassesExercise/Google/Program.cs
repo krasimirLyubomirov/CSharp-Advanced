@@ -1,63 +1,66 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-class Program
+﻿namespace Google
 {
-    static void Main(string[] args)
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+
+    class Program
     {
-        List<Person> peoples = new List<Person>();
-
-        string personInformation;
-        while ((personInformation = Console.ReadLine()) != "End")
+        static void Main(string[] args)
         {
-            string[] tokens = personInformation.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
-            string name = tokens[0];
-            string property = tokens[1];
+            Dictionary<string, Person> peoples = new Dictionary<string, Person>();
 
-            if (peoples.Any(p => p.Name == name) == false)
+            string input;
+            while ((input = Console.ReadLine()) != "End")
             {
-                Person people = new Person(name);
-                peoples.Add(people);
+                string[] tokens = input.Split(" ", StringSplitOptions.RemoveEmptyEntries);
+                string name = tokens[0];
+                string property = tokens[1];
+
+                if (peoples.ContainsKey(name) == false)
+                {
+                    peoples[name] = new Person(name);
+                }
+
+                switch (property)
+                {
+                    case "company":
+                        string companyName = tokens[2];
+                        string department = tokens[3];
+                        decimal salary = decimal.Parse(tokens[4]);
+                        Company company = new Company(companyName, department, salary);
+                        peoples[name].Company = company;
+                        break;
+                    case "pokemon":
+                        string pokemonName = tokens[2];
+                        string type = tokens[3];
+                        Pokemon pokemon = new Pokemon(pokemonName, type);
+                        peoples[name].Pokemons.Add(pokemon);
+                        break;
+                    case "parents":
+                        string parentName = tokens[2];
+                        string parentBirthday = tokens[3];
+                        Parent parent = new Parent(parentName, parentBirthday);
+                        peoples[name].Parents.Add(parent);
+                        break;
+                    case "children":
+                        string childName = tokens[2];
+                        string childBirthday = tokens[3];
+                        Child child = new Child(childName, childBirthday);
+                        peoples[name].Children.Add(child);
+                        break;
+                    case "car":
+                        string model = tokens[2];
+                        int speed = int.Parse(tokens[3]);
+                        Car car = new Car(model, speed);
+                        peoples[name].Car = car;
+                        break;
+                }
             }
 
-            Person currentPerson = peoples.First(p => p.Name == name);
-            switch (property)
-            {
-                case "company":
-                    string companyName = tokens[2];
-                    string department = tokens[3];
-                    decimal salary = decimal.Parse(tokens[4]);
-                    currentPerson.AssignCompany(companyName, department, salary);
-                    break;
-                case "pokemon":
-                    string pokemonName = tokens[2];
-                    string pokemonType = tokens[3];
-                    currentPerson.AddPokemon(pokemonName, pokemonType);
-                    break;
-                case "parents":
-                    string parentName = tokens[2];
-                    Person parent = new Person(parentName, tokens[3]);
-                    currentPerson.AddParent(parent);
-                    break;
-                case "children":
-                    string childName = tokens[2];
-                    Person children = new Person(childName, tokens[3]);
-                    currentPerson.AddChild(children);
-                    break;
-                case "car":
-                    string model = tokens[2];
-                    int speed = int.Parse(tokens[3]);
-                    currentPerson.AssignCar(model, speed);
-                    break;
-                default:
-                    throw new Exception();
-            }
+            string searchedName = Console.ReadLine();
+            Person person = peoples.Values.FirstOrDefault(p => p.Name == searchedName);
+            Console.WriteLine(person);
         }
-
-        personInformation = Console.ReadLine();
-        Person person = peoples.First(p => p.Name == personInformation);
-        Console.WriteLine(person);
     }
 }
-
