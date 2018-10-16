@@ -1,57 +1,40 @@
 ﻿namespace FamilyTree
 {
     using System.Collections.Generic;
+    using System.Linq;
     using System.Text;
 
     public class Person
     {
-        private string firstName;
-        private string lastName;
-        private string bithDate;
+        private string name;
+        private string birthday;
         private List<Person> parents;
-        private List<Person> childrens;
+        private List<Person> children;
 
         public Person()
         {
-            this.childrens = new List<Person>();
             this.parents = new List<Person>();
+            this.children = new List<Person>();
         }
 
-        public Person(string firstName, string lastName)
-            : this()
+        public Person(string name, string birthday)
         {
-            this.FirstName = firstName;
-            this.LastName = lastName;
+            this.Name = name;
+            this.Birthday = birthday;
+            this.Parents = new List<Person>();
+            this.Children = new List<Person>();
         }
 
-        public Person(string birthdate)
-            : this()
+        public string Name
         {
-            this.BirthDate = birthdate;
+            get { return this.name; }
+            set { this.name = value; }
         }
 
-        public string BirthDate
+        public string Birthday
         {
-            get { return bithDate; }
-            set { bithDate = value; }
-        }
-
-        public string LastName
-        {
-            get { return lastName; }
-            set { lastName = value; }
-        }
-
-        public string FirstName
-        {
-            get { return firstName; }
-            set { firstName = value; }
-        }
-
-        public List<Person> Childrens
-        {
-            get { return this.childrens; }
-            set { this.childrens = value; }
+            get { return this.birthday; }
+            set { this.birthday = value; }
         }
 
         public List<Person> Parents
@@ -60,36 +43,38 @@
             set { this.parents = value; }
         }
 
-        public void AddChild(Person child)
+        public List<Person> Children
         {
-            this.childrens.Add(child);
-        }
-
-        public void AddParent(Person parent)
-        {
-            this.parents.Add(parent);
+            get { return this.children; }
+            set { this.children = value; }
         }
 
         public override string ToString()
         {
-            StringBuilder builder = new StringBuilder();
+            StringBuilder result = new StringBuilder();
 
-            builder.AppendLine($"{this.FirstName} {this.LastName} {this.BirthDate}");
-            builder.AppendLine("Parents:");
+            result.AppendLine($"{this.Name} {this.Birthday}");
+            result.AppendLine($"Parents:");
 
-            foreach (var parent in parents)
+            if (this.Parents.Any())
             {
-                builder.AppendLine($"{parent.FirstName} {parent.LastName} {parent.BirthDate}");
+                foreach (Person parent in this.Parents)
+                {
+                    result.AppendLine($"{parent.Name} {parent.Birthday}");
+                }
             }
 
-            builder.AppendLine("Children:");
+            result.AppendLine($"Children:");
 
-            foreach (var child in childrens)
+            if (this.Children.Any())
             {
-                builder.Append($"{child.FirstName} {child.LastName} {child.BirthDate}");
+                foreach (Person child in this.Children)
+                {
+                    result.AppendLine($"{child.Name} {child.Birthday}");
+                }
             }
 
-            return builder.ToString();
+            return result.ToString();
         }
     }
 }
