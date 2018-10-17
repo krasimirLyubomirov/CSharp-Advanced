@@ -1,0 +1,11 @@
+D:\Programming\Visual Studio\project\CSharpOOPBasics\WorkingWithAbstactionLab\HotelReservation\bin\Debug\netcoreapp2.0\HotelReservation.deps.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\WorkingWithAbstactionLab\HotelReservation\bin\Debug\netcoreapp2.0\HotelReservation.runtimeconfig.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\WorkingWithAbstactionLab\HotelReservation\bin\Debug\netcoreapp2.0\HotelReservation.runtimeconfig.dev.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\WorkingWithAbstactionLab\HotelReservation\bin\Debug\netcoreapp2.0\HotelReservation.dll
+D:\Programming\Visual Studio\project\CSharpOOPBasics\WorkingWithAbstactionLab\HotelReservation\bin\Debug\netcoreapp2.0\HotelReservation.pdb
+D:\Programming\Visual Studio\project\CSharpOOPBasics\WorkingWithAbstactionLab\HotelReservation\obj\Debug\netcoreapp2.0\HotelReservation.csprojAssemblyReference.cache
+D:\Programming\Visual Studio\project\CSharpOOPBasics\WorkingWithAbstactionLab\HotelReservation\obj\Debug\netcoreapp2.0\HotelReservation.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\project\CSharpOOPBasics\WorkingWithAbstactionLab\HotelReservation\obj\Debug\netcoreapp2.0\HotelReservation.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\project\CSharpOOPBasics\WorkingWithAbstactionLab\HotelReservation\obj\Debug\netcoreapp2.0\HotelReservation.AssemblyInfo.cs
+D:\Programming\Visual Studio\project\CSharpOOPBasics\WorkingWithAbstactionLab\HotelReservation\obj\Debug\netcoreapp2.0\HotelReservation.dll
+D:\Programming\Visual Studio\project\CSharpOOPBasics\WorkingWithAbstactionLab\HotelReservation\obj\Debug\netcoreapp2.0\HotelReservation.pdb

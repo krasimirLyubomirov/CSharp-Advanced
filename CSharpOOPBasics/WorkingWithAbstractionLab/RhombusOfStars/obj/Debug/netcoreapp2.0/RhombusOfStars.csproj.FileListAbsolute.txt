@@ -1,0 +1,11 @@
+D:\Programming\Visual Studio\project\CSharpOOPBasics\WorkingWithAbstactionLab\RhombusOfStars\bin\Debug\netcoreapp2.0\RhombusOfStars.deps.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\WorkingWithAbstactionLab\RhombusOfStars\bin\Debug\netcoreapp2.0\RhombusOfStars.runtimeconfig.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\WorkingWithAbstactionLab\RhombusOfStars\bin\Debug\netcoreapp2.0\RhombusOfStars.runtimeconfig.dev.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\WorkingWithAbstactionLab\RhombusOfStars\bin\Debug\netcoreapp2.0\RhombusOfStars.dll
+D:\Programming\Visual Studio\project\CSharpOOPBasics\WorkingWithAbstactionLab\RhombusOfStars\bin\Debug\netcoreapp2.0\RhombusOfStars.pdb
+D:\Programming\Visual Studio\project\CSharpOOPBasics\WorkingWithAbstactionLab\RhombusOfStars\obj\Debug\netcoreapp2.0\RhombusOfStars.csprojAssemblyReference.cache
+D:\Programming\Visual Studio\project\CSharpOOPBasics\WorkingWithAbstactionLab\RhombusOfStars\obj\Debug\netcoreapp2.0\RhombusOfStars.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\project\CSharpOOPBasics\WorkingWithAbstactionLab\RhombusOfStars\obj\Debug\netcoreapp2.0\RhombusOfStars.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\project\CSharpOOPBasics\WorkingWithAbstactionLab\RhombusOfStars\obj\Debug\netcoreapp2.0\RhombusOfStars.AssemblyInfo.cs
+D:\Programming\Visual Studio\project\CSharpOOPBasics\WorkingWithAbstactionLab\RhombusOfStars\obj\Debug\netcoreapp2.0\RhombusOfStars.dll
+D:\Programming\Visual Studio\project\CSharpOOPBasics\WorkingWithAbstactionLab\RhombusOfStars\obj\Debug\netcoreapp2.0\RhombusOfStars.pdb

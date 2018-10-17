@@ -1,0 +1,11 @@
+D:\Programming\Visual Studio\project\CSharpOOPBasics\WorkingWithAbstactionLab\PointInRectangle\bin\Debug\netcoreapp2.0\PointInRectangle.deps.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\WorkingWithAbstactionLab\PointInRectangle\bin\Debug\netcoreapp2.0\PointInRectangle.runtimeconfig.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\WorkingWithAbstactionLab\PointInRectangle\bin\Debug\netcoreapp2.0\PointInRectangle.runtimeconfig.dev.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\WorkingWithAbstactionLab\PointInRectangle\bin\Debug\netcoreapp2.0\PointInRectangle.dll
+D:\Programming\Visual Studio\project\CSharpOOPBasics\WorkingWithAbstactionLab\PointInRectangle\bin\Debug\netcoreapp2.0\PointInRectangle.pdb
+D:\Programming\Visual Studio\project\CSharpOOPBasics\WorkingWithAbstactionLab\PointInRectangle\obj\Debug\netcoreapp2.0\PointInRectangle.csprojAssemblyReference.cache
+D:\Programming\Visual Studio\project\CSharpOOPBasics\WorkingWithAbstactionLab\PointInRectangle\obj\Debug\netcoreapp2.0\PointInRectangle.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\project\CSharpOOPBasics\WorkingWithAbstactionLab\PointInRectangle\obj\Debug\netcoreapp2.0\PointInRectangle.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\project\CSharpOOPBasics\WorkingWithAbstactionLab\PointInRectangle\obj\Debug\netcoreapp2.0\PointInRectangle.AssemblyInfo.cs
+D:\Programming\Visual Studio\project\CSharpOOPBasics\WorkingWithAbstactionLab\PointInRectangle\obj\Debug\netcoreapp2.0\PointInRectangle.dll
+D:\Programming\Visual Studio\project\CSharpOOPBasics\WorkingWithAbstactionLab\PointInRectangle\obj\Debug\netcoreapp2.0\PointInRectangle.pdb
