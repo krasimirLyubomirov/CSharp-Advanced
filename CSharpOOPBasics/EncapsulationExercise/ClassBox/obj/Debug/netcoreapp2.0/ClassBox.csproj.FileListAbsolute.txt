@@ -1,0 +1,11 @@
+D:\Programming\Visual Studio\project\CSharpOOPBasics\EncapsulationExercise\ClassBox\bin\Debug\netcoreapp2.0\ClassBox.deps.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\EncapsulationExercise\ClassBox\bin\Debug\netcoreapp2.0\ClassBox.runtimeconfig.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\EncapsulationExercise\ClassBox\bin\Debug\netcoreapp2.0\ClassBox.runtimeconfig.dev.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\EncapsulationExercise\ClassBox\bin\Debug\netcoreapp2.0\ClassBox.dll
+D:\Programming\Visual Studio\project\CSharpOOPBasics\EncapsulationExercise\ClassBox\bin\Debug\netcoreapp2.0\ClassBox.pdb
+D:\Programming\Visual Studio\project\CSharpOOPBasics\EncapsulationExercise\ClassBox\obj\Debug\netcoreapp2.0\ClassBox.csprojAssemblyReference.cache
+D:\Programming\Visual Studio\project\CSharpOOPBasics\EncapsulationExercise\ClassBox\obj\Debug\netcoreapp2.0\ClassBox.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\project\CSharpOOPBasics\EncapsulationExercise\ClassBox\obj\Debug\netcoreapp2.0\ClassBox.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\project\CSharpOOPBasics\EncapsulationExercise\ClassBox\obj\Debug\netcoreapp2.0\ClassBox.AssemblyInfo.cs
+D:\Programming\Visual Studio\project\CSharpOOPBasics\EncapsulationExercise\ClassBox\obj\Debug\netcoreapp2.0\ClassBox.dll
+D:\Programming\Visual Studio\project\CSharpOOPBasics\EncapsulationExercise\ClassBox\obj\Debug\netcoreapp2.0\ClassBox.pdb

@@ -1,0 +1,11 @@
+D:\Programming\Visual Studio\project\CSharpOOPBasics\EncapsulationExercise\FootballTeamGenerator\bin\Debug\netcoreapp2.0\FootballTeamGenerator.deps.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\EncapsulationExercise\FootballTeamGenerator\bin\Debug\netcoreapp2.0\FootballTeamGenerator.runtimeconfig.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\EncapsulationExercise\FootballTeamGenerator\bin\Debug\netcoreapp2.0\FootballTeamGenerator.runtimeconfig.dev.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\EncapsulationExercise\FootballTeamGenerator\bin\Debug\netcoreapp2.0\FootballTeamGenerator.dll
+D:\Programming\Visual Studio\project\CSharpOOPBasics\EncapsulationExercise\FootballTeamGenerator\bin\Debug\netcoreapp2.0\FootballTeamGenerator.pdb
+D:\Programming\Visual Studio\project\CSharpOOPBasics\EncapsulationExercise\FootballTeamGenerator\obj\Debug\netcoreapp2.0\FootballTeamGenerator.csprojAssemblyReference.cache
+D:\Programming\Visual Studio\project\CSharpOOPBasics\EncapsulationExercise\FootballTeamGenerator\obj\Debug\netcoreapp2.0\FootballTeamGenerator.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\project\CSharpOOPBasics\EncapsulationExercise\FootballTeamGenerator\obj\Debug\netcoreapp2.0\FootballTeamGenerator.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\project\CSharpOOPBasics\EncapsulationExercise\FootballTeamGenerator\obj\Debug\netcoreapp2.0\FootballTeamGenerator.AssemblyInfo.cs
+D:\Programming\Visual Studio\project\CSharpOOPBasics\EncapsulationExercise\FootballTeamGenerator\obj\Debug\netcoreapp2.0\FootballTeamGenerator.dll
+D:\Programming\Visual Studio\project\CSharpOOPBasics\EncapsulationExercise\FootballTeamGenerator\obj\Debug\netcoreapp2.0\FootballTeamGenerator.pdb
