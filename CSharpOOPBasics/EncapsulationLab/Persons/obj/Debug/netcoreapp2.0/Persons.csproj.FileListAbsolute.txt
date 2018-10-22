@@ -1,0 +1,11 @@
+D:\Programming\Visual Studio\project\CSharpOOPBasics\EncapsulationLab\Persons\bin\Debug\netcoreapp2.0\Persons.deps.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\EncapsulationLab\Persons\bin\Debug\netcoreapp2.0\Persons.runtimeconfig.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\EncapsulationLab\Persons\bin\Debug\netcoreapp2.0\Persons.runtimeconfig.dev.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\EncapsulationLab\Persons\bin\Debug\netcoreapp2.0\Persons.dll
+D:\Programming\Visual Studio\project\CSharpOOPBasics\EncapsulationLab\Persons\bin\Debug\netcoreapp2.0\Persons.pdb
+D:\Programming\Visual Studio\project\CSharpOOPBasics\EncapsulationLab\Persons\obj\Debug\netcoreapp2.0\Persons.csprojAssemblyReference.cache
+D:\Programming\Visual Studio\project\CSharpOOPBasics\EncapsulationLab\Persons\obj\Debug\netcoreapp2.0\Persons.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\project\CSharpOOPBasics\EncapsulationLab\Persons\obj\Debug\netcoreapp2.0\Persons.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\project\CSharpOOPBasics\EncapsulationLab\Persons\obj\Debug\netcoreapp2.0\Persons.AssemblyInfo.cs
+D:\Programming\Visual Studio\project\CSharpOOPBasics\EncapsulationLab\Persons\obj\Debug\netcoreapp2.0\Persons.dll
+D:\Programming\Visual Studio\project\CSharpOOPBasics\EncapsulationLab\Persons\obj\Debug\netcoreapp2.0\Persons.pdb

@@ -1,0 +1,11 @@
+D:\Programming\Visual Studio\project\CSharpOOPBasics\EncapsulationLab\Salary\bin\Debug\netcoreapp2.0\Salary.deps.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\EncapsulationLab\Salary\bin\Debug\netcoreapp2.0\Salary.runtimeconfig.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\EncapsulationLab\Salary\bin\Debug\netcoreapp2.0\Salary.runtimeconfig.dev.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\EncapsulationLab\Salary\bin\Debug\netcoreapp2.0\Salary.dll
+D:\Programming\Visual Studio\project\CSharpOOPBasics\EncapsulationLab\Salary\bin\Debug\netcoreapp2.0\Salary.pdb
+D:\Programming\Visual Studio\project\CSharpOOPBasics\EncapsulationLab\Salary\obj\Debug\netcoreapp2.0\Salary.csprojAssemblyReference.cache
+D:\Programming\Visual Studio\project\CSharpOOPBasics\EncapsulationLab\Salary\obj\Debug\netcoreapp2.0\Salary.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\project\CSharpOOPBasics\EncapsulationLab\Salary\obj\Debug\netcoreapp2.0\Salary.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\project\CSharpOOPBasics\EncapsulationLab\Salary\obj\Debug\netcoreapp2.0\Salary.AssemblyInfo.cs
+D:\Programming\Visual Studio\project\CSharpOOPBasics\EncapsulationLab\Salary\obj\Debug\netcoreapp2.0\Salary.dll
+D:\Programming\Visual Studio\project\CSharpOOPBasics\EncapsulationLab\Salary\obj\Debug\netcoreapp2.0\Salary.pdb
