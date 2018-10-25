@@ -1,0 +1,11 @@
+D:\Programming\Visual Studio\project\CSharpOOPBasics\InheritanceExercise\Person\bin\Debug\netcoreapp2.0\Person.deps.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\InheritanceExercise\Person\bin\Debug\netcoreapp2.0\Person.runtimeconfig.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\InheritanceExercise\Person\bin\Debug\netcoreapp2.0\Person.runtimeconfig.dev.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\InheritanceExercise\Person\bin\Debug\netcoreapp2.0\Person.dll
+D:\Programming\Visual Studio\project\CSharpOOPBasics\InheritanceExercise\Person\bin\Debug\netcoreapp2.0\Person.pdb
+D:\Programming\Visual Studio\project\CSharpOOPBasics\InheritanceExercise\Person\obj\Debug\netcoreapp2.0\Person.csprojAssemblyReference.cache
+D:\Programming\Visual Studio\project\CSharpOOPBasics\InheritanceExercise\Person\obj\Debug\netcoreapp2.0\Person.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\project\CSharpOOPBasics\InheritanceExercise\Person\obj\Debug\netcoreapp2.0\Person.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\project\CSharpOOPBasics\InheritanceExercise\Person\obj\Debug\netcoreapp2.0\Person.AssemblyInfo.cs
+D:\Programming\Visual Studio\project\CSharpOOPBasics\InheritanceExercise\Person\obj\Debug\netcoreapp2.0\Person.dll
+D:\Programming\Visual Studio\project\CSharpOOPBasics\InheritanceExercise\Person\obj\Debug\netcoreapp2.0\Person.pdb

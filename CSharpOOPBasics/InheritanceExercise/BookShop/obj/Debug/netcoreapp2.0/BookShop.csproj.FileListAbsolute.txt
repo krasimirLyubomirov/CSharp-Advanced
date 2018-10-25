@@ -1,0 +1,11 @@
+D:\Programming\Visual Studio\project\CSharpOOPBasics\InheritanceExercise\BookShop\bin\Debug\netcoreapp2.0\BookShop.deps.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\InheritanceExercise\BookShop\bin\Debug\netcoreapp2.0\BookShop.runtimeconfig.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\InheritanceExercise\BookShop\bin\Debug\netcoreapp2.0\BookShop.runtimeconfig.dev.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\InheritanceExercise\BookShop\bin\Debug\netcoreapp2.0\BookShop.dll
+D:\Programming\Visual Studio\project\CSharpOOPBasics\InheritanceExercise\BookShop\bin\Debug\netcoreapp2.0\BookShop.pdb
+D:\Programming\Visual Studio\project\CSharpOOPBasics\InheritanceExercise\BookShop\obj\Debug\netcoreapp2.0\BookShop.csprojAssemblyReference.cache
+D:\Programming\Visual Studio\project\CSharpOOPBasics\InheritanceExercise\BookShop\obj\Debug\netcoreapp2.0\BookShop.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\project\CSharpOOPBasics\InheritanceExercise\BookShop\obj\Debug\netcoreapp2.0\BookShop.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\project\CSharpOOPBasics\InheritanceExercise\BookShop\obj\Debug\netcoreapp2.0\BookShop.AssemblyInfo.cs
+D:\Programming\Visual Studio\project\CSharpOOPBasics\InheritanceExercise\BookShop\obj\Debug\netcoreapp2.0\BookShop.dll
+D:\Programming\Visual Studio\project\CSharpOOPBasics\InheritanceExercise\BookShop\obj\Debug\netcoreapp2.0\BookShop.pdb
