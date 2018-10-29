@@ -1,0 +1,10 @@
+D:\Programming\Visual Studio\CSharpOOPBasics\InterfacesAndAbstractionExercise\MultipleImplementation\bin\Debug\netcoreapp2.0\MultipleImplementation.deps.json
+D:\Programming\Visual Studio\CSharpOOPBasics\InterfacesAndAbstractionExercise\MultipleImplementation\bin\Debug\netcoreapp2.0\MultipleImplementation.runtimeconfig.json
+D:\Programming\Visual Studio\CSharpOOPBasics\InterfacesAndAbstractionExercise\MultipleImplementation\bin\Debug\netcoreapp2.0\MultipleImplementation.runtimeconfig.dev.json
+D:\Programming\Visual Studio\CSharpOOPBasics\InterfacesAndAbstractionExercise\MultipleImplementation\bin\Debug\netcoreapp2.0\MultipleImplementation.dll
+D:\Programming\Visual Studio\CSharpOOPBasics\InterfacesAndAbstractionExercise\MultipleImplementation\bin\Debug\netcoreapp2.0\MultipleImplementation.pdb
+D:\Programming\Visual Studio\CSharpOOPBasics\InterfacesAndAbstractionExercise\MultipleImplementation\obj\Debug\netcoreapp2.0\MultipleImplementation.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\CSharpOOPBasics\InterfacesAndAbstractionExercise\MultipleImplementation\obj\Debug\netcoreapp2.0\MultipleImplementation.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\CSharpOOPBasics\InterfacesAndAbstractionExercise\MultipleImplementation\obj\Debug\netcoreapp2.0\MultipleImplementation.AssemblyInfo.cs
+D:\Programming\Visual Studio\CSharpOOPBasics\InterfacesAndAbstractionExercise\MultipleImplementation\obj\Debug\netcoreapp2.0\MultipleImplementation.dll
+D:\Programming\Visual Studio\CSharpOOPBasics\InterfacesAndAbstractionExercise\MultipleImplementation\obj\Debug\netcoreapp2.0\MultipleImplementation.pdb
