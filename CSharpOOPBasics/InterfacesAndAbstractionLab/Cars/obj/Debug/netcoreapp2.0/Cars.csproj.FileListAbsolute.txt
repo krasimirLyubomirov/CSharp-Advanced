@@ -1,0 +1,11 @@
+D:\Programming\Visual Studio\project\CSharpOOPBasics\InterfacesAndAbstractionLab\Cars\bin\Debug\netcoreapp2.0\Cars.deps.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\InterfacesAndAbstractionLab\Cars\bin\Debug\netcoreapp2.0\Cars.runtimeconfig.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\InterfacesAndAbstractionLab\Cars\bin\Debug\netcoreapp2.0\Cars.runtimeconfig.dev.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\InterfacesAndAbstractionLab\Cars\bin\Debug\netcoreapp2.0\Cars.dll
+D:\Programming\Visual Studio\project\CSharpOOPBasics\InterfacesAndAbstractionLab\Cars\bin\Debug\netcoreapp2.0\Cars.pdb
+D:\Programming\Visual Studio\project\CSharpOOPBasics\InterfacesAndAbstractionLab\Cars\obj\Debug\netcoreapp2.0\Cars.csprojAssemblyReference.cache
+D:\Programming\Visual Studio\project\CSharpOOPBasics\InterfacesAndAbstractionLab\Cars\obj\Debug\netcoreapp2.0\Cars.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\project\CSharpOOPBasics\InterfacesAndAbstractionLab\Cars\obj\Debug\netcoreapp2.0\Cars.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\project\CSharpOOPBasics\InterfacesAndAbstractionLab\Cars\obj\Debug\netcoreapp2.0\Cars.AssemblyInfo.cs
+D:\Programming\Visual Studio\project\CSharpOOPBasics\InterfacesAndAbstractionLab\Cars\obj\Debug\netcoreapp2.0\Cars.dll
+D:\Programming\Visual Studio\project\CSharpOOPBasics\InterfacesAndAbstractionLab\Cars\obj\Debug\netcoreapp2.0\Cars.pdb

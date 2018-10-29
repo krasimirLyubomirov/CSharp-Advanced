@@ -1,0 +1,11 @@
+D:\Programming\Visual Studio\project\CSharpOOPBasics\InterfacesAndAbstractionLab\Shapes\bin\Debug\netcoreapp2.0\Shapes.deps.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\InterfacesAndAbstractionLab\Shapes\bin\Debug\netcoreapp2.0\Shapes.runtimeconfig.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\InterfacesAndAbstractionLab\Shapes\bin\Debug\netcoreapp2.0\Shapes.runtimeconfig.dev.json
+D:\Programming\Visual Studio\project\CSharpOOPBasics\InterfacesAndAbstractionLab\Shapes\bin\Debug\netcoreapp2.0\Shapes.dll
+D:\Programming\Visual Studio\project\CSharpOOPBasics\InterfacesAndAbstractionLab\Shapes\bin\Debug\netcoreapp2.0\Shapes.pdb
+D:\Programming\Visual Studio\project\CSharpOOPBasics\InterfacesAndAbstractionLab\Shapes\obj\Debug\netcoreapp2.0\Shapes.csprojAssemblyReference.cache
+D:\Programming\Visual Studio\project\CSharpOOPBasics\InterfacesAndAbstractionLab\Shapes\obj\Debug\netcoreapp2.0\Shapes.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\project\CSharpOOPBasics\InterfacesAndAbstractionLab\Shapes\obj\Debug\netcoreapp2.0\Shapes.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\project\CSharpOOPBasics\InterfacesAndAbstractionLab\Shapes\obj\Debug\netcoreapp2.0\Shapes.AssemblyInfo.cs
+D:\Programming\Visual Studio\project\CSharpOOPBasics\InterfacesAndAbstractionLab\Shapes\obj\Debug\netcoreapp2.0\Shapes.dll
+D:\Programming\Visual Studio\project\CSharpOOPBasics\InterfacesAndAbstractionLab\Shapes\obj\Debug\netcoreapp2.0\Shapes.pdb
