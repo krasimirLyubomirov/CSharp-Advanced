@@ -1,0 +1,22 @@
+C:\Users\Hp\Desktop\TopOOPExercises\FamilyTree\bin\Debug\netcoreapp2.1\WildFarm.deps.json
+C:\Users\Hp\Desktop\TopOOPExercises\FamilyTree\bin\Debug\netcoreapp2.1\WildFarm.runtimeconfig.json
+C:\Users\Hp\Desktop\TopOOPExercises\FamilyTree\bin\Debug\netcoreapp2.1\WildFarm.runtimeconfig.dev.json
+C:\Users\Hp\Desktop\TopOOPExercises\FamilyTree\bin\Debug\netcoreapp2.1\WildFarm.dll
+C:\Users\Hp\Desktop\TopOOPExercises\FamilyTree\bin\Debug\netcoreapp2.1\WildFarm.pdb
+C:\Users\Hp\Desktop\TopOOPExercises\FamilyTree\obj\Debug\netcoreapp2.1\WildFarm.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\TopOOPExercises\FamilyTree\obj\Debug\netcoreapp2.1\WildFarm.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\TopOOPExercises\FamilyTree\obj\Debug\netcoreapp2.1\WildFarm.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\TopOOPExercises\FamilyTree\obj\Debug\netcoreapp2.1\WildFarm.AssemblyInfo.cs
+C:\Users\Hp\Desktop\TopOOPExercises\FamilyTree\obj\Debug\netcoreapp2.1\WildFarm.dll
+C:\Users\Hp\Desktop\TopOOPExercises\FamilyTree\obj\Debug\netcoreapp2.1\WildFarm.pdb
+D:\Programming\Visual Studio\CSharpOOPBasics\PolymorphismExercise\WildFarm\bin\Debug\netcoreapp2.1\WildFarm.deps.json
+D:\Programming\Visual Studio\CSharpOOPBasics\PolymorphismExercise\WildFarm\bin\Debug\netcoreapp2.1\WildFarm.runtimeconfig.json
+D:\Programming\Visual Studio\CSharpOOPBasics\PolymorphismExercise\WildFarm\bin\Debug\netcoreapp2.1\WildFarm.runtimeconfig.dev.json
+D:\Programming\Visual Studio\CSharpOOPBasics\PolymorphismExercise\WildFarm\bin\Debug\netcoreapp2.1\WildFarm.dll
+D:\Programming\Visual Studio\CSharpOOPBasics\PolymorphismExercise\WildFarm\bin\Debug\netcoreapp2.1\WildFarm.pdb
+D:\Programming\Visual Studio\CSharpOOPBasics\PolymorphismExercise\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.csprojAssemblyReference.cache
+D:\Programming\Visual Studio\CSharpOOPBasics\PolymorphismExercise\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\CSharpOOPBasics\PolymorphismExercise\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\CSharpOOPBasics\PolymorphismExercise\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.AssemblyInfo.cs
+D:\Programming\Visual Studio\CSharpOOPBasics\PolymorphismExercise\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.dll
+D:\Programming\Visual Studio\CSharpOOPBasics\PolymorphismExercise\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.pdb
