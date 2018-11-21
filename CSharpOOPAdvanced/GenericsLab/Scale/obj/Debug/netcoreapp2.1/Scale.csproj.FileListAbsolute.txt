@@ -1,0 +1,11 @@
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsLab\Scale\bin\Debug\netcoreapp2.1\Scale.deps.json
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsLab\Scale\bin\Debug\netcoreapp2.1\Scale.runtimeconfig.json
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsLab\Scale\bin\Debug\netcoreapp2.1\Scale.runtimeconfig.dev.json
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsLab\Scale\bin\Debug\netcoreapp2.1\Scale.dll
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsLab\Scale\bin\Debug\netcoreapp2.1\Scale.pdb
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsLab\Scale\obj\Debug\netcoreapp2.1\Scale.csprojAssemblyReference.cache
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsLab\Scale\obj\Debug\netcoreapp2.1\Scale.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsLab\Scale\obj\Debug\netcoreapp2.1\Scale.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsLab\Scale\obj\Debug\netcoreapp2.1\Scale.AssemblyInfo.cs
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsLab\Scale\obj\Debug\netcoreapp2.1\Scale.dll
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsLab\Scale\obj\Debug\netcoreapp2.1\Scale.pdb
