@@ -1,0 +1,10 @@
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsExercise\GenericCountMethodDoubles\bin\Debug\netcoreapp2.1\GenericCountMethodDoubles.deps.json
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsExercise\GenericCountMethodDoubles\bin\Debug\netcoreapp2.1\GenericCountMethodDoubles.runtimeconfig.json
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsExercise\GenericCountMethodDoubles\bin\Debug\netcoreapp2.1\GenericCountMethodDoubles.runtimeconfig.dev.json
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsExercise\GenericCountMethodDoubles\bin\Debug\netcoreapp2.1\GenericCountMethodDoubles.dll
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsExercise\GenericCountMethodDoubles\bin\Debug\netcoreapp2.1\GenericCountMethodDoubles.pdb
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsExercise\GenericCountMethodDoubles\obj\Debug\netcoreapp2.1\GenericCountMethodDoubles.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsExercise\GenericCountMethodDoubles\obj\Debug\netcoreapp2.1\GenericCountMethodDoubles.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsExercise\GenericCountMethodDoubles\obj\Debug\netcoreapp2.1\GenericCountMethodDoubles.AssemblyInfo.cs
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsExercise\GenericCountMethodDoubles\obj\Debug\netcoreapp2.1\GenericCountMethodDoubles.dll
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsExercise\GenericCountMethodDoubles\obj\Debug\netcoreapp2.1\GenericCountMethodDoubles.pdb

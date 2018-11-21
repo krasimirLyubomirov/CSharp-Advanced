@@ -1,0 +1,10 @@
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsExercise\CustomListIterator\bin\Debug\netcoreapp2.1\CustomListIterator.deps.json
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsExercise\CustomListIterator\bin\Debug\netcoreapp2.1\CustomListIterator.runtimeconfig.json
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsExercise\CustomListIterator\bin\Debug\netcoreapp2.1\CustomListIterator.runtimeconfig.dev.json
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsExercise\CustomListIterator\bin\Debug\netcoreapp2.1\CustomListIterator.dll
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsExercise\CustomListIterator\bin\Debug\netcoreapp2.1\CustomListIterator.pdb
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsExercise\CustomListIterator\obj\Debug\netcoreapp2.1\CustomListIterator.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsExercise\CustomListIterator\obj\Debug\netcoreapp2.1\CustomListIterator.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsExercise\CustomListIterator\obj\Debug\netcoreapp2.1\CustomListIterator.AssemblyInfo.cs
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsExercise\CustomListIterator\obj\Debug\netcoreapp2.1\CustomListIterator.dll
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsExercise\CustomListIterator\obj\Debug\netcoreapp2.1\CustomListIterator.pdb

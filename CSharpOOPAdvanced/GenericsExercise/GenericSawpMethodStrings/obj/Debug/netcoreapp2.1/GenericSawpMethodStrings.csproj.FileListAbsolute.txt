@@ -1,0 +1,10 @@
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsExercise\GenericSawpMethodStrings\bin\Debug\netcoreapp2.1\GenericSawpMethodStrings.deps.json
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsExercise\GenericSawpMethodStrings\bin\Debug\netcoreapp2.1\GenericSawpMethodStrings.runtimeconfig.json
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsExercise\GenericSawpMethodStrings\bin\Debug\netcoreapp2.1\GenericSawpMethodStrings.runtimeconfig.dev.json
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsExercise\GenericSawpMethodStrings\bin\Debug\netcoreapp2.1\GenericSawpMethodStrings.dll
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsExercise\GenericSawpMethodStrings\bin\Debug\netcoreapp2.1\GenericSawpMethodStrings.pdb
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsExercise\GenericSawpMethodStrings\obj\Debug\netcoreapp2.1\GenericSawpMethodStrings.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsExercise\GenericSawpMethodStrings\obj\Debug\netcoreapp2.1\GenericSawpMethodStrings.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsExercise\GenericSawpMethodStrings\obj\Debug\netcoreapp2.1\GenericSawpMethodStrings.AssemblyInfo.cs
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsExercise\GenericSawpMethodStrings\obj\Debug\netcoreapp2.1\GenericSawpMethodStrings.dll
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsExercise\GenericSawpMethodStrings\obj\Debug\netcoreapp2.1\GenericSawpMethodStrings.pdb

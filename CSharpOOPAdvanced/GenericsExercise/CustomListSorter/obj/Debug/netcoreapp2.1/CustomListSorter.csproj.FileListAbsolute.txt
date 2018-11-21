@@ -1,0 +1,11 @@
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsExercise\CustomListSorter\bin\Debug\netcoreapp2.1\CustomListSorter.deps.json
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsExercise\CustomListSorter\bin\Debug\netcoreapp2.1\CustomListSorter.runtimeconfig.json
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsExercise\CustomListSorter\bin\Debug\netcoreapp2.1\CustomListSorter.runtimeconfig.dev.json
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsExercise\CustomListSorter\bin\Debug\netcoreapp2.1\CustomListSorter.dll
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsExercise\CustomListSorter\bin\Debug\netcoreapp2.1\CustomListSorter.pdb
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsExercise\CustomListSorter\obj\Debug\netcoreapp2.1\CustomListSorter.csprojAssemblyReference.cache
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsExercise\CustomListSorter\obj\Debug\netcoreapp2.1\CustomListSorter.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsExercise\CustomListSorter\obj\Debug\netcoreapp2.1\CustomListSorter.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsExercise\CustomListSorter\obj\Debug\netcoreapp2.1\CustomListSorter.AssemblyInfo.cs
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsExercise\CustomListSorter\obj\Debug\netcoreapp2.1\CustomListSorter.dll
+D:\Programming\Visual Studio\CSharpOOPAdvanced\GenericsExercise\CustomListSorter\obj\Debug\netcoreapp2.1\CustomListSorter.pdb
