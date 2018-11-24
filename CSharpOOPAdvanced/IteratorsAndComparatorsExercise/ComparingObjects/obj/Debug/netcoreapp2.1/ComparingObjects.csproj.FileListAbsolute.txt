@@ -1,0 +1,11 @@
+D:\Programming\Visual Studio\CSharpOOPAdvanced\IteratorsAndComparatorsExercise\ComparingObjects\bin\Debug\netcoreapp2.1\ComparingObjects.deps.json
+D:\Programming\Visual Studio\CSharpOOPAdvanced\IteratorsAndComparatorsExercise\ComparingObjects\bin\Debug\netcoreapp2.1\ComparingObjects.runtimeconfig.json
+D:\Programming\Visual Studio\CSharpOOPAdvanced\IteratorsAndComparatorsExercise\ComparingObjects\bin\Debug\netcoreapp2.1\ComparingObjects.runtimeconfig.dev.json
+D:\Programming\Visual Studio\CSharpOOPAdvanced\IteratorsAndComparatorsExercise\ComparingObjects\bin\Debug\netcoreapp2.1\ComparingObjects.dll
+D:\Programming\Visual Studio\CSharpOOPAdvanced\IteratorsAndComparatorsExercise\ComparingObjects\bin\Debug\netcoreapp2.1\ComparingObjects.pdb
+D:\Programming\Visual Studio\CSharpOOPAdvanced\IteratorsAndComparatorsExercise\ComparingObjects\obj\Debug\netcoreapp2.1\ComparingObjects.csprojAssemblyReference.cache
+D:\Programming\Visual Studio\CSharpOOPAdvanced\IteratorsAndComparatorsExercise\ComparingObjects\obj\Debug\netcoreapp2.1\ComparingObjects.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\CSharpOOPAdvanced\IteratorsAndComparatorsExercise\ComparingObjects\obj\Debug\netcoreapp2.1\ComparingObjects.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\CSharpOOPAdvanced\IteratorsAndComparatorsExercise\ComparingObjects\obj\Debug\netcoreapp2.1\ComparingObjects.AssemblyInfo.cs
+D:\Programming\Visual Studio\CSharpOOPAdvanced\IteratorsAndComparatorsExercise\ComparingObjects\obj\Debug\netcoreapp2.1\ComparingObjects.dll
+D:\Programming\Visual Studio\CSharpOOPAdvanced\IteratorsAndComparatorsExercise\ComparingObjects\obj\Debug\netcoreapp2.1\ComparingObjects.pdb

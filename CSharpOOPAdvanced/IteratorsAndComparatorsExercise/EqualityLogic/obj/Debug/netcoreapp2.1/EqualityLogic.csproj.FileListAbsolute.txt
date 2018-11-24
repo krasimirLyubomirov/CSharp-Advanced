@@ -1,0 +1,11 @@
+D:\Programming\Visual Studio\CSharpOOPAdvanced\IteratorsAndComparatorsExercise\EqualityLogic\bin\Debug\netcoreapp2.1\EqualityLogic.deps.json
+D:\Programming\Visual Studio\CSharpOOPAdvanced\IteratorsAndComparatorsExercise\EqualityLogic\bin\Debug\netcoreapp2.1\EqualityLogic.runtimeconfig.json
+D:\Programming\Visual Studio\CSharpOOPAdvanced\IteratorsAndComparatorsExercise\EqualityLogic\bin\Debug\netcoreapp2.1\EqualityLogic.runtimeconfig.dev.json
+D:\Programming\Visual Studio\CSharpOOPAdvanced\IteratorsAndComparatorsExercise\EqualityLogic\bin\Debug\netcoreapp2.1\EqualityLogic.dll
+D:\Programming\Visual Studio\CSharpOOPAdvanced\IteratorsAndComparatorsExercise\EqualityLogic\bin\Debug\netcoreapp2.1\EqualityLogic.pdb
+D:\Programming\Visual Studio\CSharpOOPAdvanced\IteratorsAndComparatorsExercise\EqualityLogic\obj\Debug\netcoreapp2.1\EqualityLogic.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\CSharpOOPAdvanced\IteratorsAndComparatorsExercise\EqualityLogic\obj\Debug\netcoreapp2.1\EqualityLogic.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\CSharpOOPAdvanced\IteratorsAndComparatorsExercise\EqualityLogic\obj\Debug\netcoreapp2.1\EqualityLogic.AssemblyInfo.cs
+D:\Programming\Visual Studio\CSharpOOPAdvanced\IteratorsAndComparatorsExercise\EqualityLogic\obj\Debug\netcoreapp2.1\EqualityLogic.dll
+D:\Programming\Visual Studio\CSharpOOPAdvanced\IteratorsAndComparatorsExercise\EqualityLogic\obj\Debug\netcoreapp2.1\EqualityLogic.pdb
+D:\Programming\Visual Studio\CSharpOOPAdvanced\IteratorsAndComparatorsExercise\EqualityLogic\obj\Debug\netcoreapp2.1\EqualityLogic.csprojAssemblyReference.cache

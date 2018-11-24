@@ -1,0 +1,11 @@
+D:\Programming\Visual Studio\CSharpOOPAdvanced\IteratorsAndComparatorsExercise\PetClinics\bin\Debug\netcoreapp2.1\PetClinics.deps.json
+D:\Programming\Visual Studio\CSharpOOPAdvanced\IteratorsAndComparatorsExercise\PetClinics\bin\Debug\netcoreapp2.1\PetClinics.runtimeconfig.json
+D:\Programming\Visual Studio\CSharpOOPAdvanced\IteratorsAndComparatorsExercise\PetClinics\bin\Debug\netcoreapp2.1\PetClinics.runtimeconfig.dev.json
+D:\Programming\Visual Studio\CSharpOOPAdvanced\IteratorsAndComparatorsExercise\PetClinics\bin\Debug\netcoreapp2.1\PetClinics.dll
+D:\Programming\Visual Studio\CSharpOOPAdvanced\IteratorsAndComparatorsExercise\PetClinics\bin\Debug\netcoreapp2.1\PetClinics.pdb
+D:\Programming\Visual Studio\CSharpOOPAdvanced\IteratorsAndComparatorsExercise\PetClinics\obj\Debug\netcoreapp2.1\PetClinics.csprojAssemblyReference.cache
+D:\Programming\Visual Studio\CSharpOOPAdvanced\IteratorsAndComparatorsExercise\PetClinics\obj\Debug\netcoreapp2.1\PetClinics.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\CSharpOOPAdvanced\IteratorsAndComparatorsExercise\PetClinics\obj\Debug\netcoreapp2.1\PetClinics.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\CSharpOOPAdvanced\IteratorsAndComparatorsExercise\PetClinics\obj\Debug\netcoreapp2.1\PetClinics.AssemblyInfo.cs
+D:\Programming\Visual Studio\CSharpOOPAdvanced\IteratorsAndComparatorsExercise\PetClinics\obj\Debug\netcoreapp2.1\PetClinics.dll
+D:\Programming\Visual Studio\CSharpOOPAdvanced\IteratorsAndComparatorsExercise\PetClinics\obj\Debug\netcoreapp2.1\PetClinics.pdb
